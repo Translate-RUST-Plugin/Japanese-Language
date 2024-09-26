@@ -1,0 +1,21 @@
+{
+  "EventActive_Exeption": "This event is active now. Finish the current event! (<color=#ce3f27>/sputikstop</color>)!",
+  "PresetNotFound_Exeption": "{0} preset was not found in the config!",
+  "PreStartEvent": "{0} <color=#738d43>{1}</color> will enter the atmosphere in <color=#738d43>{2}</color>!",
+  "StartEvent": "{0} <color=#738d43>{1}</color> entered the atmosphere!",
+  "Crash": "{0} <color=#738d43>Debris</color> detected at grid <color=#ce3f27>{1}</color>!",
+  "NeedUseCard": "{0} Use the <color=#ce3f27>space card</color> to unlock the crate!",
+  "RemainTime": "{0} {1} will be destroyed in <color=#ce3f27>{2}</color>!",
+  "EndEvent": "{0} The event is <color=#ce3f27>over</color>!",
+  "GetSpaceCard": "{0} You got a <color=#ce3f27>space card</color>!",
+  "Marker_EventOwner": "Event Owner: {0}",
+  "EnterPVP": "{0} You <color=#ce3f27>have entered</color> the PVP zone, now other players <color=#ce3f27>can damage</color> you!",
+  "ExitPVP": "{0} You <color=#738d43>have gone out</color> the PVP zone, now other players <color=#738d43>can’t damage</color> you!",
+  "GUI": "The sputnik will be destroyed in <color=#ce3f27>{0}</color>",
+  "SendEconomy": "{0} You <color=#738d43>have earned</color> <color=#55aaff>{1}</color> points in economics for participating in the event",
+  "Hour": "h.",
+  "Min": "m.",
+  "Sec": "s.",
+  "EventStart_Log": "The event has begun! (Preset name - {0})",
+  "EventStop_Log": "The event is over!"
+}

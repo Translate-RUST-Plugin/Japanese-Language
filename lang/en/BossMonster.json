@@ -1,0 +1,6 @@
+{
+  "Start": "{0} <color=#55aaff>{1}</color> <color=#738d43>arrived</color> to zone <color=#55aaff>{2}</color>!",
+  "Finish": "{0} <color=#55aaff>{1}</color> killed <color=#55aaff>{2}</color> to zone <color=#55aaff>{3}</color>",
+  "NoDamage": "{0} You <color=#ce3f27>cannot</color> damage an boss from your position!",
+  "OnlyMeleeWeapon": "{0} You can only deal damage to this boss <color=#55aaff>with melee weapons</color>!"
+}

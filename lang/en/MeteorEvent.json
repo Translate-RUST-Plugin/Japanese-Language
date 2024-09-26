@@ -1,0 +1,21 @@
+{
+  "NoPermission": "You don't have permission to use this command!",
+  "MeteorHelp": "Meteor Shower Commands:\n<color=#5c81ed>/{0} run <amount></color> - Starts meteor shower with <amount> meteors.\n<color=#5c81ed>/{0} direct <playerIdOrName></color> - Strikes one meteor to <playerIdOrName> location.\n<color=#5c81ed>/{0} kill</color> - Kills all meteors around the map.",
+  "WrongSyntax_1": "Wrong Syntax!\nUsage: <color=#5c81ed>/{0} run <amount></color>",
+  "WrongSyntax_2": "Wrong Syntax!\nUsage: <color=#5c81ed>/{0} direct <playerIdOrName></color>",
+  "MeteorInfo": "You've started a meteor shower with <color=#5c81ed>{0}</color> meteors!",
+  "DirectMeteorInfo": "You've directed <color=#5c81ed>{1}</color> meteors to <color=#5c81ed>{0}'s</color> head!",
+  "NoPlayerFound": "We couldn't find player <color=#5c81ed>{0}</color>.",
+  "SpecifyNickname": "Write more specified nickname. We found more than 1 player with a nickname <color=#5c81ed>{0}</color>.",
+  "ShowerBroadcast": "Astrologers announced that a meteor shower would occur in a few seconds!\nThere will be approx. <color=#5c81ed>{0}</color> falling meteorites!",
+  "MeteorsKilled": "You've killed all meteors around the map!",
+  "NoBigMeteorDig": "You can't destroy large meteorite with melee tool. You need to use explosives!",
+  "MeteorHelpUser": "Meteor Shower Commands:\n<color=#5c81ed>/{0} buy normal </color> - Purchase meteor shower with {1} meteors for {2} {3}.\n<color=#5c81ed>/{0} buy direct <playerIdOrName></color> - Purchase meteor strike on <playerIdOrName> location for {4} {5}.",
+  "OptionDisabled": "This option is disabled!",
+  "EventOnCooldown": "Event is on cooldown! You need to wait <color=#5c81ed>{0}</color> seconds to start another event.",
+  "PurchasedEvent": "You've purchased Meteor Shower for <color=#5c81ed>{1} {0}</color>!",
+  "NoRequiredItem": "You don't have required item to purchase an event! You need <color=#5c81ed>{1} {0}</color>!",
+  "BuyDirectOnlyYou": "You can buy direct drops only on yourself!",
+  "PurchasedDirectEvent": "You've purchased direct Meteor Shower for <color=#5c81ed>{1} {0}</color>!",
+  "Money": "RP"
+}

@@ -1,0 +1,15 @@
+{
+  "PreStart": "{0} Loading of the Valuable Cargo on the Cargo Ship will begin in the Harbor in <color=#55aaff>{1} sec.</color>!",
+  "Start": "{0} The Cargo Ship <color=#738d43>has arrived</color> at the Harbor in grid <color=#55aaff>{1}</color>\nThe loading of the cargo <color=#738d43>has begun</color>!\nCCTV: <color=#55aaff>{2}</color>",
+  "PreFinish": "{0} Loading of the Valuable Cargo <color=#ce3f27>will end</color> in <color=#55aaff>{1} sec.</color>!",
+  "Finish": "{0} Loading of the Valuable Cargo <color=#ce3f27>has concluded</color>! The ship is leaving the map!",
+  "EventActive": "{0} This event is active now. To finish this event (<color=#55aaff>/harborstop</color>), then (<color=#55aaff>/harborstart</color>) to start the next one!",
+  "EnterPVP": "{0} You <color=#ce3f27>have entered</color> the PVP zone, now other players <color=#ce3f27>can damage</color> you!",
+  "ExitPVP": "{0} You <color=#738d43>have left</color> the PVP zone, now other players <color=#738d43>cannot damage</color> you!",
+  "HeliArrive": "{0} A Patrol Helicopter <color=#ce3f27>was called</color> to defend the Loading of the Valuable Cargo!",
+  "KillBradley": "{0} <color=#55aaff>{1}</color> <color=#738d43>destroyed</color> the tank!",
+  "OpenDoor": "{0} <color=#55aaff>{1}</color> <color=#738d43>opened</color> the loot container door!",
+  "NTeleportation": "{0} You <color=#ce3f27>cannot</color> teleport into the event zone!",
+  "SendEconomy": "{0} You <color=#738d43>have earned</color> <color=#55aaff>{1}</color> points in economics for participating in the event",
+  "NoCommand": "{0} You <color=#ce3f27>cannot</color> use this command in the event zone!"
+}

@@ -1,0 +1,15 @@
+{
+  "PreStart": "{0} There was a conflict between two gangs <color=#55aaff>Vagos</color> and <color=#55aaff>Ballas</color>. After <color=#55aaff>{1}</color> <color=#55aaff>Vagos</color> want to attack the <color=#55aaff>Ballas</color> base to free their friend from captivity",
+  "Start": "{0} As a result of the chase, <color=#55aaff>Vagos</color> lost control of their car and crashed into a gas tank at <color=#55aaff>Oxum's Gas Station</color> monument in the square <color=#55aaff>{1}</color>. A shootout began between both gangs. <color=#738d43>Help</color> one of the gangs cope with the second and then they <color=#738d43>will thank you</color> for your help",
+  "PreFinish": "{0} The Oxum's Gas Station Event <color=#ce3f27>will end</color> in <color=#55aaff>{1}</color>!",
+  "Finish": "{0} The Oxum's Gas Station Event <color=#ce3f27>has concluded</color>!",
+  "KillAllVagos": "{0} All members of the <color=#55aaff>Vagos</color> gang are <color=#ce3f27>killed</color>. As a thank you, the <color=#55aaff>Ballas</color> gang <color=#738d43>opened their hiding place</color> in the basement of the auto repair shop at the Oxum's Gas Station monument. You <color=#738d43>can take</color> everything you need from there",
+  "KillAllBallas": "{0} All members of the <color=#55aaff>Ballas</color> gang are <color=#ce3f27>killed</color>. As a thank you, the <color=#55aaff>Vagos</color> gang <color=#738d43>shared the password to their hiding place</color> in the toilet at the Oxum's Gas Station monument. You <color=#738d43>can take</color> everything you need from there",
+  "SetOwner": "{0} Player <color=#55aaff>{1}</color> <color=#738d43>has received</color> the owner status for the <color=#55aaff>Gas Station Event</color>",
+  "EventActive": "{0} This event is active now. To finish this event (<color=#55aaff>/gsstop</color>), then (<color=#55aaff>/gsstart</color>) to start the next one!",
+  "EnterPVP": "{0} You <color=#ce3f27>have entered</color> the PVP zone, now other players <color=#ce3f27>can damage</color> you!",
+  "ExitPVP": "{0} You <color=#738d43>have left</color> the PVP zone, now other players <color=#738d43>cannot damage</color> you!",
+  "NTeleportation": "{0} You <color=#ce3f27>cannot</color> teleport into the event zone!",
+  "SendEconomy": "{0} You <color=#738d43>have earned</color> <color=#55aaff>{1}</color> economics for participating in the event",
+  "NoCommand": "{0} You <color=#ce3f27>cannot</color> use this command in the event zone!"
+}
