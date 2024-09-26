@@ -1,0 +1,6 @@
+{
+  "MaxStackAmount": "You are trying to stack more than {0} chests!",
+  "OnlyStackSameType": "You can only stack the same type of chests!",
+  "CeilingBlock": "A ceiling is blocking you from stacking this chest!",
+  "BuildingBlock": "You need to be Building Privileged in order to stack chests!"
+}

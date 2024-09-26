@@ -1,0 +1,14 @@
+{
+  "NoPermission": "You don't have permission to do that.",
+  "NoMonumentsFound": "No monuments found",
+  "AtMonument": "At monument: {0}\nRelative position: {1}",
+  "ClosestMonument": "Closest monument: {0}\nDistance: {1:f2}m",
+  "Closest.Config.Success": "Added monument <color=#9f6>{0}</color> to the plugin config.",
+  "Closest.Config.AlreadyPresent": "Monument <color=#9f6>{0}</color> is already in the plugin config.",
+  "List.Header": "Listing monuments:",
+  "Help.Header": "Monument Finder commands:",
+  "Help.List": "<color=#9f6>{0} list <filter></color> - List monuments matching filter",
+  "Help.Show": "<color=#9f6>{0} show <filter></color> - Show monuments matching filter",
+  "Help.Closest": "<color=#9f6>{0} closest</color> - Show info about the closest monument",
+  "Help.Closest.Config": "<color=#9f6>{0} closest config</color> - Adds the closest monument to the config"
+}

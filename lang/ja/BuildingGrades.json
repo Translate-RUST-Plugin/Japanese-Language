@@ -1,0 +1,20 @@
+{
+  "NotAllowed": "<color=#FF1919>You do not have permission to use this command.</color>",
+  "UnknownGrade": "<color=#FF1919>Unknown grade.</color>",
+  "UnknownCategory": "<color=#FF1919>Unknown category.</color> Available categories: <color=#009EFF>{0}</color>",
+  "NotLookingAt": "<color=#FF1919>You are not looking at a building block.</color>",
+  "RaidBlocked": "<color=#FF1919>You may not do that while raid blocked.</color>.",
+  "CombatBlocked": "<color=#FF1919>You may not do that while combat blocked.</color>.",
+  "OnCooldown": "You must wait <color=#FF1919>{0}</color> seconds before you can use this command.",
+  "BuildingBlocked": "You can't use this command if you don't have the building privileges.",
+  "MissingItemsFormat": "* <color=#FF1919>{0}</color> x{1}",
+  "StartUpgrade": "Start running upgrade, please wait.",
+  "StartDowngrade": "Start running downgrade, please wait.",
+  "AlreadyProcess": "There is already a process already running, please wait.",
+  "UpgradeNotEnoughItems": "None of the buildings were upgraded. You are missing: \n{0}",
+  "UpgradeNotEnoughItemsSuccess": "<color=#FF1919>{0}</color> building blocks were upgraded. Some buildings cannot be upgraded, you are missing: \n{1}",
+  "NotUpgraded": "None of the buildings were upgraded.",
+  "NotDowngraded": "None of the buildings were downgraded.",
+  "FinishedUpgrade": "<color=#FF1919>{0}</color> building blocks were upgraded.",
+  "FinishedDowngrade": "<color=#FF1919>{0}</color> building blocks were downgraded."
+}

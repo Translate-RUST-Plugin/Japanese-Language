@@ -1,0 +1,22 @@
+{
+  "error_no_permission": "You do not have permission to use this command.",
+  "error_building_blocked": "Cannot do that while building blocked.",
+  "error_on_cooldown": "You have <color=red>{0}</color> until your cooldown ends.",
+  "error_insufficient_space": "Not enough space.",
+  "error_conflicting_heli": "You must first destroy your other helicopter(s) before you can spawn a new one.",
+  "error_spawn_distance": "You cannot spawn the helicopter that far away.",
+  "error_spawn_location": "No suitable spawn location found.",
+  "error_heli_occupied": "The helicopter is currently occupied.",
+  "error_heli_distance": "The helicopter is too far away.",
+  "error_cannot_mount": "You are not the owner of this helicopter or in the owner's team.",
+  "error_unlimited_fuel": "That helicopter doesn't need fuel.",
+  "info_mini_destroyed": "Your Minicopter has been destroyed.",
+  "info_scrap_heli_destroyed": "Your Scrap Heli has been destroyed.",
+  "info_attack_heli_destroyed": "Your Attack Heli has been destroyed.",
+  "error_mini_exists": "You already have a Minicopter.",
+  "error_scrap_heli_exists": "You already have a Scrap Heli.",
+  "error_attack_heli_exists": "You already have an Attack Heli.",
+  "error_mini_not_found": "You do not have a Minicopter.",
+  "error_scrap_heli_not_found": "You do not have a Scrap Heli.",
+  "error_attack_heli_not_found": "You do not have an Attack Heli."
+}

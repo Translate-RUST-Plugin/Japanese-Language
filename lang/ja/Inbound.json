@@ -1,0 +1,22 @@
+{
+  "PatrolHeli": "Patrol Helicopter inbound{0}{1}",
+  "CargoShip_": "Cargo Ship inbound{0}{1}",
+  "CargoShipApproachHarbor": "Cargo Ship is approaching the harbor{0}",
+  "CargoShipAtHarbor": "Cargo Ship has docked at the harbor{0}",
+  "CargoShipLeaveHarbor": "Cargo Ship is leaving the harbor{0}",
+  "CargoPlane_": "{0}Cargo Plane inbound{1}{2}",
+  "CH47": "Chinook inbound{0}{1}",
+  "BradleyAPC": "Bradley APC inbound{0}",
+  "TravellingVendor": "Travelling Vendor inbound{0}",
+  "Excavator_": "{0} has activated The Excavator{1}",
+  "ExcavatorSupplyRequest": "{0} has requested a supply drop{1}",
+  "HackableCrateSpawned": "Hackable Crate has spawned{0}",
+  "HackingCrate": "{0} is hacking a locked crate{1}",
+  "SupplySignal": "{0} has deployed a supply signal{1}",
+  "SupplyDropDropped": "{0}Supply Drop has dropped{1}",
+  "SupplyDropLanded_": "{0}Supply Drop has landed{1}",
+  "SupplyDropPlayer": "{0}'s ",
+  "Location": " at {0}",
+  "Destination": " and headed to {0}",
+  "DiscordMessage_": "{0}"
+}

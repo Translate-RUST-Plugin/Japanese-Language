@@ -1,0 +1,16 @@
+{
+  "AdminTP": "Teleport",
+  "Godmode": "God",
+  "Radar": "Radar",
+  "Vanish": "Vanish",
+  "NewTP": "NewTP",
+  "PA": "Player Administration",
+  "Syntax": "Invalid syntax: /{0} {1}",
+  "No Custom Location Set": "You do not have a custom location set.",
+  "Removed Custom Location": "Removed your custom TP coordinates. You will teleport to the admin location instead.",
+  "Set Custom TP Coordinates": "Your TP coordinates set to current position {0}",
+  "Set Admin TP Coordinates": "Admin zone coordinates set to current position {0}",
+  "Panel Shown": "Admin panel refreshed/shown",
+  "Panel Hidden": "Admin panel hidden",
+  "Usage": "Usage: /{0} show/hide/settp/removetp"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "Recycler",
+  "Pickup": "You picked up recycler!",
+  "Receive": "You received recycler!",
+  "Disabled": "Pickup disabled!",
+  "Build": "You must have ability to build to do that!",
+  "Damaged": "Recycler was recently damaged, you can pick it up in next 30s!",
+  "NoCraft": "Craft disabled!",
+  "Owner": "Only owner can pickup recycler!",
+  "Craft": "For craft you need more resources:\n{0}",
+  "Permission": "You need permission to do that!",
+  "Claimed": "You claimed a recycler! your current balance is {0}.",
+  "LimitExceeded": "You reached your crafting limit!",
+  "Balance": "Your current balance is {0}."
+}
