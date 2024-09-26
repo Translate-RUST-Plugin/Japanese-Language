@@ -1,0 +1,5 @@
+{
+  "GetPogoStick": "{0} You <color=#738d43>got</color> a pogo stick!",
+  "NoPermission": "{0} You <color=#b03b1e>do not have permission</color> to use a pogo stick!",
+  "AreaBlock": "{0} It is <color=#b03b1e>forbidden</color> to use pogo in this area!"
+}

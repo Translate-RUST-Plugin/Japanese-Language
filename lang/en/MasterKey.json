@@ -1,0 +1,11 @@
+{
+  "MasterKeyDisabled": "Master key access is now disabled.",
+  "MasterKeyEnabled": "Master key access is now enabled.",
+  "NotAllowed": "You are not allowed to use the '{0}' command.",
+  "UnlockedWith": "Unlocked {0} with master key!",
+  "LockedWith": "Locked {0} with master key!",
+  "OpenWith": "Opened {0} with master key!",
+  "LogUnlock": "{0} unlocked '{1}' with master key at {2}",
+  "LogLock": "{0} locked '{1}' with master key at {2}",
+  "LogOpen": "{0} opened '{1}' with master key at {2}"
+}

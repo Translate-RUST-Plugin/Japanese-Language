@@ -1,0 +1,8 @@
+{
+  "wrongColorUsage": "<size=45>✘</size>\n<size=18>Wrong color format!</size>\nYou need to use RBGA color code with percentage value type. \n\n Example: 0.16 0.34 0.49 1.0",
+  "wrongAnchorUsage": "<size=45>✘</size>\n<size=18>Wrong anchor format!</size>\nAnchor must contain two values, press '?' for more info. \n\n Example: 0.5 0.7",
+  "missingCoreValues": "<size=45>✘</size>\n<size=18>Missing mandatory values!</size>\n Panel Name, UI Type, Panel Type and Anchors cannot be empty.",
+  "tooManyArguments": "<size=45>✘</size>\n<size=18>Too many arguments!</size>\n For multiple words please put text between 'quote marks'.\n\n Keep in mind that Panel Name has to be one word.",
+  "panelNameNotFound": "<size=45>✘</size>\n<size=18>Panel name was not found!</size>\n You can find all panel names in data file or by typing chat command \n\n'/custombuttons_list' ",
+  "changesSaved": "<size=45>✔</size>\n<size=18>Changes have been saved!</size>\n\nClick here to continue..."
+}

@@ -1,0 +1,11 @@
+{
+  "ChatPrefix": "<color=#00ff00>[Night Vision]</color>",
+  "NoPerms": "You do not have permission to use this command!",
+  "TimeLocked": "Time locked to {0}",
+  "TimeUnlocked": "Time unlocked",
+  "HelpTitle": "<size=16><color=#00ff00>Night Vision</color> Help</size>\n",
+  "Help1": "<color=#00ff00>/nightvision <0-24>(/nv)</color> - Toggle time lock night vision with optional time 0-24",
+  "Help2": "<color=#00ff00>/unlimitednvg (/unvg)</color> - Equip/remove unlimited night vision goggles",
+  "EquipUNVG": "Equipped unlimited night vision goggles",
+  "RemoveUNVG": "Removed unlimited night vision goggles"
+}

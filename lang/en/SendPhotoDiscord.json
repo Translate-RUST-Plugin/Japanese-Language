@@ -1,0 +1,23 @@
+{
+  "lang_1": "<size=10><color=#1bf900>√</color></size>",
+  "lang_2": "<size=10><color=red>letter 0-9 A-Z a-z. - required !</color></size>",
+  "lang_3": "<size=10><color=red>minimum {LimitTextMinimum} letter required !</color></size>",
+  "lang_4": "<size=10><color=red>Your comment field is empty!</color></size>",
+  "lang_5": "<size=10><color=red>Photo Not Found 1/2!</color></size>",
+  "lang_6": "<size=10><color=red>Photo Not Found 2/2!</color></size>",
+  "lang_7": "<size=10><color=red>Photo corrupted for sending</color></size>",
+  "lang_8": "{NamePlayer} to post a photo",
+  "lang_9": "<size=10><color=red>An error occurs when sending</color></size>",
+  "lang_10": "<size=10><color=red>letter 0-9 A-Z a-z. - required !</color></size>",
+  "lang_11": "<size=10><color=red>minimum {LimitTextMinimum} letter required !</color></size>",
+  "lang_12": "<size=10><color=red>Your comment field is empty!</color></size>",
+  "lang_13": "Publish",
+  "lang_14": "Cancel",
+  "lang_15": "Post your photos on our discord",
+  "lang_16": "The photos that will be published",
+  "lang_17": "Your comment (*) ",
+  "lang_18": "Location",
+  "lang_19": "You do not have the required permission for this command",
+  "lang_20": "you have to wait to publish",
+  "lang_21": "<size=10><color=red>A channel error has occurred!</color></size>"
+}

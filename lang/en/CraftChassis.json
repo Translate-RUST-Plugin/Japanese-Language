@@ -1,0 +1,10 @@
+{
+  "UI.Header": "Craft a chassis",
+  "UI.CostLabel.Free": "Free",
+  "UI.CostLabel.NoPermission": "No Permission",
+  "UI.CostLabel.Economics": "{0:C}",
+  "UI.CostLabel.ServerRewards": "{0} reward points",
+  "UI.ButtonText.Sockets.2": "2 sockets",
+  "UI.ButtonText.Sockets.3": "3 sockets",
+  "UI.ButtonText.Sockets.4": "4 sockets"
+}

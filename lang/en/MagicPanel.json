@@ -1,0 +1,7 @@
+{
+  "Chat": "<color=#bebebe>[<color=#de8732>Magic Panel</color>] {0}</color>",
+  "On": "on",
+  "Off": "off",
+  "SettingsChanged": "All your panels are now {0}",
+  "Help": "Controls the visibility of the magic panels:\n<color=#de8732>/mp on</color> shows all the magic panels\n<color=#de8732>/mp off</color> hides all the magic panels"
+}

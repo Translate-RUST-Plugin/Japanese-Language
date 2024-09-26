@@ -1,0 +1,22 @@
+{
+  "FILE_NOT_EXISTS": "File does not exist",
+  "FILE_BROKEN": "Something went wrong during pasting because of a error in the file.",
+  "NO_ACCESS": "You don't have the permissions to use this command",
+  "SYNTAX_PASTEBACK": "Syntax: /pasteback <Target Filename> <options values>\nheight XX - Adjust the height\nvending - Information and sellings in vending machine\nstability <true/false> - Wether or not to disable stability\ndeployables <true/false> - Wether or not to copy deployables\nauth <true/false> - Wether or not to copy lock and cupboard whitelists\nposition <x,y,z> - Override position\nrotation <X> - Override rotation",
+  "SYNTAX_PASTE_OR_PASTEBACK": "Syntax: /paste or /pasteback <Target Filename> <options values>\nheight XX - Adjust the height\nautoheight true/false - sets best height, carefull of the steep\nblockcollision XX - blocks the entire paste if something the new building collides with something\ndeployables true/false - false to remove deployables\ninventories true/false - false to ignore inventories\nvending - Information and sellings in vending machine\nstability <true/false> - Wether or not to disable stability on the building\nposition <x,y,z> - Override position\nrotation <X> - Override rotation",
+  "PASTEBACK_SUCCESS": "You've successfully placed back the structure",
+  "PASTE_SUCCESS": "You've successfully pasted the structure",
+  "SYNTAX_COPY": "Syntax: /copy <Target Filename> <options values>\nradius XX (default 3) - The radius in which to search for the next object (performs this search from every other object)\nmethod proximity/building (default proximity) - Building only copies objects which are part of the building, proximity copies everything (within the radius)\ndeployables true/false (saves deployables or not) - Wether to save deployables\ninventories true/false (saves inventories or not) - Wether to save inventories of found objects with inventories.",
+  "NO_ENTITY_RAY": "Couldn't ray something valid in front of you",
+  "COPY_SUCCESS": "The structure was successfully copied as {0}",
+  "NO_PASTED_STRUCTURE": "You must paste structure before undoing it",
+  "UNDO_SUCCESS": "You've successfully undid what you pasted",
+  "NOT_FOUND_PLAYER": "Couldn't find the player",
+  "SYNTAX_BOOL": "Option {0} must be true/false",
+  "SYNTAX_FLOAT": "Option {0} must be a decimal",
+  "SYNTAX_HEIGHT": "Option height must be a number",
+  "SYNTAX_BLOCKCOLLISION": "Option blockcollision must be a number, 0 will deactivate the option",
+  "SYNTAX_RADIUS": "Option radius must be a number",
+  "BLOCKING_PASTE": "Something is blocking the paste",
+  "AVAILABLE_STRUCTURES": "<color=orange>Available structures:</color>"
+}

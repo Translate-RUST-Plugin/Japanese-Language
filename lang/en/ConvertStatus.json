@@ -1,0 +1,5 @@
+{
+  "NOPERM": "You don't have permission to that command!",
+  "CHANGED": "Admin status now is <color=cyan>{0}</color>",
+  "NOCLIP": "Fly will be deactivated in 1 sec. Don't use it in next 3 seconds or you will be banned!"
+}

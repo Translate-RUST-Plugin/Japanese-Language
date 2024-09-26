@@ -1,0 +1,14 @@
+{
+  "MaxLimitDefault": "You have reached the Default maximum cupboard limit of {0}",
+  "MaxLimitVip": "You have reached the Vip maximum cupboard limit of {0}",
+  "MaxLimit": "You have reached the maximum cupboard limit of {0}",
+  "Remaining": "Amount of TC's remaining = {0}",
+  "NoPermission": "You don't have the permission.",
+  "cInspect": "The user {0} have {1} TCs.",
+  "cInspectOwn": "You have {0} TC and {1} remaining.",
+  "cInspectNotFound": "Error: User not found",
+  "TeamOvercount": "You cannot invite this player right now, he have {0} TC too many.",
+  "TeamOvercountTarget": "You cannot be invited by this player right now, you have {0} TC too many.",
+  "cInspectUsage": "Usage: tc <partialNameOrId> ...",
+  "Error": "An unexpected error occured."
+}

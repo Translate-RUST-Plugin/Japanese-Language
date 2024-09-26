@@ -1,0 +1,21 @@
+{
+  "Button.Save": "SAVE",
+  "Button.Cancel": "CANCEL",
+  "Button.Edit": "EDIT",
+  "Button.Reset": "RESET",
+  "Info.ForSale": "FOR SALE",
+  "Info.Cost": "COST",
+  "Info.Settings": "SETTINGS",
+  "Settings.RefillMax": "Max Stock",
+  "Settings.RefillDelay": "Seconds Between Refills",
+  "Settings.RefillAmount": "Refill Amount",
+  "Settings.SkinId": "Skin ID",
+  "Settings.BypassDynamicPricing": "Bypass Dynamic Pricing",
+  "Settings.ShopName": "Shop Name",
+  "Error.CurrentlyBeingEdited": "That vending machine is currently being edited by {0}.",
+  "Info.DataProvider.Map": "Data Provider: <color=#f90>Map ({0})</color>",
+  "Info.DataProvider.Entity": "Data Provider: <color=#6f6>Entity ({0})</color>",
+  "Info.DataProvider.Monument": "Data Provider: <color=#6f6>Monument ({0})</color>",
+  "Info.DataProvider.Plugin": "Data Provider: <color=#f9f>Plugin ({0})</color>",
+  "Info.DataProvider.Plugin.UnknownName": "Data Provider: <color=#f9f>Plugin</color>"
+}

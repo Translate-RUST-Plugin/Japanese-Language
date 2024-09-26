@@ -1,0 +1,13 @@
+{
+  "NoAuthorizedPlayers": "No authorized players.",
+  "AuthorizedPlayers": "Authorized players in the {0} owned by {1}:",
+  "NoEntityFound": "No entity found. Look at an entity and right-click while holding a {0}.",
+  "NoOwner": "No owner found for this entity.",
+  "ChatEntityOwnedBy": "This {0} is owned by {1}",
+  "DoorCode": "Door Code: <color=yellow>{0}</color>",
+  "ConsoleEntityOwnedBy": "This {0} is owned by www.steamcommunity.com/profiles/{1}",
+  "ToolActivated": "You have enabled AdminHammer.",
+  "ToolDeactivated": "You have disabled AdminHammer.",
+  "AdminUsedTool": "{0} [{1}] used AdminHammer on a {2} owned by {3} [{4}] located at {5}",
+  "PerformanceMode": "Performance mode is enabled, so you have to use the chat command <color=yellow>/{0}</color> instead of right-clicking"
+}
