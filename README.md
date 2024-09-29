@@ -10,7 +10,9 @@ RUSTの仕様上、**日本語に含まれる漢字が文字化けする**関係
 日本語化ファイルを適用していれば後にプラグインを導入しても、日本語化されます
 
  `.../en> ` ファイルはデフォルトファイルなので変更はしていませんが、アップデートにより更新されたファイルを適用しています 
- 
+
+最新版の更新については X(旧Twitter)でポストしています [@TF2_IKKUNN](https://x.com/TF2_IKKUNN)
+
 ----------
 
 # Oxideの場合
@@ -27,12 +29,12 @@ Oxideの言語ファイルに適用します
 
 翻訳に協力して頂ける方を募集しています
 
-興味のある方は [@ikkunn_53](https://x.com/ikkunn_53)までご連絡ください
+興味のある方は [@TF2_IKKUNN](https://x.com/TF2_IKKUNN)までご連絡ください
 
 ----------
 
 # 提供/協力
 
-[提供] [RUST文字化け確認サイト](https://mojibake.catsgta.com/): ミヤガワ様
+[提供] [RUST文字化け確認サイト](https://mojibake.catsgta.com/): ミヤガワ様 ([@MiyagawaYuu](https://x.com/miyagawayuu))
 
-[協力] RUST Admin JAPAN ： Guu様
+[協力] RUST Admin JAPAN ： Guu様 ([@g_u_u_3](https://x.com/g_u_u_3?s=21))
