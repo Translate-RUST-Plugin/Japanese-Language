@@ -8,6 +8,6 @@
   "ConsoleEntityOwnedBy": "この {0} は www.steamcommunity.com/profiles/{1} が所有しています",
   "ToolActivated": "AdminHammer を ゆうこう にしました",
   "ToolDeactivated": "AdminHammer を むこう にしました",
-  "AdminUsedTool": "{0} [{1}] は、{3} [{4}] が所有する {2} で adminHammer を使用しました",
+  "AdminUsedTool": "{0} [{1}] は、 {3} [{4}] が所有する {2} で adminHammer を使用しました",
   "PerformanceMode": "パフォーマンスモードが ゆうこう になっているため、右クリックの代わりにチャットコマンド <color=yellow>/{0}</color> を使用する必要があります"
 }
