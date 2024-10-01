@@ -1,7 +1,7 @@
 {
-  "VanishCommand": "vanish",
-  "Vanished": "Vanish: <color=orange> Enabled </color>",
-  "Reappear": "Vanish: <color=orange> Disabled </color>",
-  "NoPerms": "You do not have permission to do this",
-  "PermanentVanish": "You are in a permanent vanish mode"
+  "VanishCommand": "バニッシュ(透明化)",
+  "Vanished": "バニッシュ(透明化): <color=orange> ゆうこう </color>",
+  "Reappear": "バニッシュ(透明化): <color=orange> むこう </color>",
+  "NoPerms": "このコマンドを使用するけんげんがありません",
+  "PermanentVanish": "あなたは永久にバニッシュ(透明化)モードです"
 }
