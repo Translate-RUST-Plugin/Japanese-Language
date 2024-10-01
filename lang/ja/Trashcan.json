@@ -1,9 +1,9 @@
 {
-  "TrashHeadText": "TRASHCAN",
-  "TrashSubText": "<color=#FF4433>Warning:</color> When you close this menu, everything in the storage will be deleted!",
-  "TrashNoBoxText": "<color=#FFFF00>Trash Can:</color> You do not have a Large Wooden Box in your hand.",
-  "TrashNoItemText": "<color=#FFFF00>Trash Can:</color> You do not have anything in your hand.",
-  "TrashCreatedText": "<color=#FFFF00>Trash Can:</color> You have turned your currently held Large Wooden Box into a trashcan.",
-  "TrashAlreadyText": "<color=#FFFF00>Trash Can:</color> This Large Wooden Box is already a trashcan.",
-  "RaidBlockedText": "<color=#FFFF00>Trash Can:</color> You are currently raid blocked, your items will not be deleted until you reuse the box after the raid is over."
+  "TrashHeadText": "ゴミ箱",
+  "TrashSubText": "<color=#FF4433>Warning:</color> このメニューとじると、ゴミ箱のストレージ内にいれたすべてのものが削除されます。",
+  "TrashNoBoxText": "<color=#FFFF00>ゴミ箱:</color> あなたの手元には大きな木箱がありません。",
+  "TrashNoItemText": "<color=#FFFF00>ゴミ箱:</color> あなたは手に何も持っていません。",
+  "TrashCreatedText": "<color=#FFFF00>ゴミ箱:</color> あなたが手に持っていた大きな木箱をゴミ箱にへんこうしました。",
+  "TrashAlreadyText": "<color=#FFFF00>ゴミ箱:</color> この大きな木箱はすでにゴミ箱になっています。",
+  "RaidBlockedText": "<color=#FFFF00>ゴミ箱:</color> げんざい、レイドがブロックされています。レイドしゅうりょうごにボックスを再利用するまで、アイテムは削除されません。"
 }
