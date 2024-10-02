@@ -1,5 +1,5 @@
 {
-  "SyntaxPlayer": "<color=red>Invalid syntax</color>, use:\n\n<color=green>/bdgive <type> <SteamID/PlayerName> <amount></color>",
+  "SyntaxPlayer": "<color=red>Invalid syntax</color>, 次のあたいを使用する:\n\n<color=green>/bdgive <type> <SteamID/PlayerName> <amount></color>",
   "SyntaxConsole": "Invalid syntax, use: bdgive <type> <SteamID/PlayerName> <amount>",
   "ClearSyntaxPlayer": "<color=red>Invalid syntax</color>, use:\n\n<color=green>/bdclearcd</color> (clears all cooldowns)\n\nOr\n\n<color=green>/bdclearcd <SteamID/PlayerName></color>",
   "ClearSyntaxConsole": "Invalid syntax, use: \"bdclearcd\" (clears all cooldowns) or \"bdclearcd <SteamID/PlayerName>\"",
