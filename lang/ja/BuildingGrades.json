@@ -2,7 +2,7 @@
   "NotAllowed": "<color=#FF1919>このコマンドを使用するけんげんがありません。</color>",
   "UnknownGrade": "<color=#FF1919>グレード不明</color>",
   "UnknownCategory": "<color=#FF1919>カテゴリー不明</color> 利用可能なカテゴリー: <color=#009EFF>{0}</color>",
-  "NotLookingAt": "<color=#FF1919>あなたは建ちくブロックをみていません</color>",
+  "NotLookingAt": "<color=#FF1919>あなたはビルディングブロックをみていません</color>",
   "RaidBlocked": "<color=#FF1919>レイドブロック中は、それはできません。</color>.",
   "CombatBlocked": "<color=#FF1919>せんとうブロック中は、それはできません。</color>.",
   "OnCooldown": "このコマンドを使うには、 <color=#FF1919>{0}</color> 秒待ってください。",
@@ -12,9 +12,9 @@
   "StartDowngrade": "ダウングレードをかいしします。お待ちください。",
   "AlreadyProcess": "すでにじっこうちゅうのプロセスがあります。",
   "UpgradeNotEnoughItems": "どの建物もアップグレードされていません。 足りないもの: \n{0}",
-  "UpgradeNotEnoughItemsSuccess": "<color=#FF1919>{0}</color> けんちくブロックがアップグレードされました。 アップグレードできなかったたてもの: \n{1}",
+  "UpgradeNotEnoughItemsSuccess": "<color=#FF1919>{0}</color> ビルディングブロックがアップグレードされました。 アップグレードできなかったたてもの: \n{1}",
   "NotUpgraded": "どの建物もアップグレードされていません。",
   "NotDowngraded": "どの建物もダウングレードされていません。",
-  "FinishedUpgrade": "<color=#FF1919>{0}</color> けんちくブロックがアップグレードされました。",
-  "FinishedDowngrade": "<color=#FF1919>{0}</color> けんちくブロックがダウングレードされました。"
+  "FinishedUpgrade": "<color=#FF1919>{0}</color> ビルディングブロックがアップグレードされました。",
+  "FinishedDowngrade": "<color=#FF1919>{0}</color> ビルディングブロックがダウングレードされました。"
 }
