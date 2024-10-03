@@ -1,6 +1,6 @@
 {
-  "MaxStackAmount": "You are trying to stack more than {0} chests!",
-  "OnlyStackSameType": "You can only stack the same type of chests!",
-  "CeilingBlock": "A ceiling is blocking you from stacking this chest!",
-  "BuildingBlock": "You need to be Building Privileged in order to stack chests!"
+  "MaxStackAmount": "チェストを {0} つ以上つみ上げようとしています！",
+  "OnlyStackSameType": "同じしゅるいのチェストしかスタックできません！",
+  "CeilingBlock": "このチェストをつみ上げるのに天井が邪魔をしています！",
+  "BuildingBlock": "チェストをつみ上げるには、けんちくけんげんが必要です！"
 }
