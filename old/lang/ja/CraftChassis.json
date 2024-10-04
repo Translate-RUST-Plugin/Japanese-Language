@@ -1,0 +1,10 @@
+{
+  "UI.Header": "シャーシをつくる",
+  "UI.CostLabel.Free": "フリー",
+  "UI.CostLabel.NoPermission": "使用きょかがありません",
+  "UI.CostLabel.Economics": "{0:C}",
+  "UI.CostLabel.ServerRewards": "{0} ポイントバック",
+  "UI.ButtonText.Sockets.2": "2 ソケット",
+  "UI.ButtonText.Sockets.3": "3 ソケット",
+  "UI.ButtonText.Sockets.4": "4 ソケット"
+}

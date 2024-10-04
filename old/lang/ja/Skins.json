@@ -1,0 +1,15 @@
+{
+  "Not Allowed": "このコマンドを使用するけんげんがありません",
+  "Cannot Use": "今すぐには使えません",
+  "Help": "コマンドの使用方法:\nskin show - スキンを表示する \nskin get - アイテムのSkin IDを取得します \nskin purgecache (shortname) - ショートネームでスキンのキャッシュを消去する(またはemptyですべてパージします)",
+  "Admin Help": "管理者コマンドの使用方法:\nskin remove (Shortname) (Skin ID) [Permission] - スキンの削除 \nskin add (Shortname) (Skin ID) [Permission] - スキンを追加",
+  "Skin Get Format": "{shortname}'s スキン: {id}.",
+  "Skin Get No Item": "必要なアイテムを持ってください",
+  "Incorrect Skin": "入力されたスキンがまちがっています",
+  "Skin Already Exists": "このアイテムには、すでにこのスキンが存在します",
+  "Skin Does Not Exist": "このスキンは存在しません",
+  "Skin Added": "スキンを追加しました",
+  "Skin Removed": "スキンを削除しました"
+}
+// Ver0.7.7//
+// Editor by @ikkunn_53 //

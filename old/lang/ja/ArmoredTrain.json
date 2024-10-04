@@ -1,0 +1,16 @@
+{
+  "EventActive": "{0}　このイベントはアクティブです。このイベントを中止するには (<color=#ce3f27/atrainstop</color>)!",
+  "PreStartTrain": "{0} {2}ごに<color=#738d43>{1}</color> がスポーンします!",
+  "StartTrain": "{0} <color=#738d43>{1}</color> が始まりました！",
+  "PlayerStopTrain": "{0} <color=#ce3f27>{1}</color>  れっしゃが止まりました！",
+  "RemainTime": "{0} れっしゃは <color=#ce3f27>{1}</color> ごにおわります!",
+  "EndEvent": "{0} イベントは <color=#ce3f27>おわりました</color>!",
+  "NeedStopTrain": "{0} れっしゃ <color=#ce3f27>を止める</color> 必要があります！",
+  "EnterPVP": "{0} PVPゾーンに <color=#ce3f27>入ったので</color>、他のプレイヤーがあなたに <color=#ce3f27>ダメージを与えることができるようになりました</color>",
+  "ExitPVP": "{0} PVPゾーンの <color=#738d43>外に出たので</color> 、他のプレイヤーはあなたに <color=#738d43>ダメージを与えることができません</color>",
+  "GUI": " <color=#ce3f27>{0}</color> で、れっしゃがこわれます",
+  "Hour": "じ",
+  "Min": "分",
+  "Sec": "秒",
+  "SendEconomy": "{0} You <color=#738d43>have earned</color> <color=#55aaff>{1}</color> points in economics for participating in the event"
+}

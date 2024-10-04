@@ -1,0 +1,15 @@
+{
+  "NoAuthorizedPlayers": "けんげんがありません",
+  "AuthorizedPlayers": "けんげんがあるプレイヤー {0}  所有者 {1}:",
+  "NoEntityFound": "エンティティがみつかりません。 エンティティをみて {0} を右クリックしてください",
+  "NoOwner": "このエンティティには所有者がいません",
+  "ChatEntityOwnedBy": "この {0} は {1}が所有しています",
+  "DoorCode": "ドアコード: <color=yellow>{0}</color>",
+  "ConsoleEntityOwnedBy": "この {0}  www.steamcommunity.com/profiles/{1} が所有しています",
+  "ToolActivated": "AdminHammerをゆうこうにしました",
+  "ToolDeactivated": "AdminHammerをむこうにしました",
+  "AdminUsedTool": "{0} [{1}] は {5} にある {3} [{4}] が所有する {2} に AdminHammer を使いました",
+  "PerformanceMode": "パフォーマンスモードがゆうこうです。右クリックではなく、チャットコマンド <color=yellow>/{0}</color> を使用する必要があります"
+}
+// Ver1.13.0 //
+// Editor by @ikkunn_53 //

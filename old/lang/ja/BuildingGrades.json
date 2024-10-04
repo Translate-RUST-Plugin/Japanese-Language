@@ -1,0 +1,23 @@
+{
+  "NotAllowed": "<color=#FF1919>このコマンドを使用するけんげんがありません</color>",
+  "UnknownGrade": "<color=#FF1919>グレード不明</color>",
+  "UnknownCategory": "<color=#FF1919>カテゴリ不明</color> Available categories: <color=#009EFF>{0}</color>",
+  "NotLookingAt": "<color=#FF1919>建物をみていません</color>",
+  "RaidBlocked": "<color=#FF1919>レイドブロック中は行えません</color>.",
+  "CombatBlocked": "<color=#FF1919>せんとうブロック中は行えません</color>.",
+  "OnCooldown": "コマンドを使用する前に <color=#FF1919>{0}</color> 秒待つ必要があります",
+  "BuildingBlocked": "このコマンドは、BuildingBlockedのけんげんを持っていないばあいは使用できません",
+  "MissingItemsFormat": "* <color=#FF1919>{0}</color> x{1}",
+  "StartUpgrade": "アップグレードを始めてます。お待ちください",
+  "StartDowngrade": "ダウングレードを始めてます。お待ちください",
+  "AlreadyProcess": "すでにプロセスがじっこうされています。お待ちください",
+  "UpgradeNotEnoughItems": "どの建物もアップグレードされていません。不足しているのは: \n{0}",
+  "UpgradeNotEnoughItemsSuccess": "<color=#FF1919>{0}</color> 建物をアップグレードしました。一部の建物はアップグレードできませんでした、材料が不足しています: \n{1}",
+  "NotUpgraded": "どの建物もアップグレードしていません",
+  "NotDowngraded": "どの建物もダウングレードしていません",
+  "FinishedUpgrade": "<color=#FF1919>{0}</color> 建物がアップグレードされました",
+  "FinishedDowngrade": "<color=#FF1919>{0}</color> 建物がダウングレードされました"
+}
+
+// Ver1.0.5 //
+// Editor by @ikkunn_53 //

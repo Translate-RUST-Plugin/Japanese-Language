@@ -1,0 +1,16 @@
+{
+  "EventActive": "{0} このイベントはアクティブです。このイベントを中止するには (<color=#ce3f27>/sputikstop</color>)!",
+  "PreStartEvent": "{0} <color=#738d43>{1}</color> が、 <color=#738d43>{2}</color> ごに宇宙から落下してきます！",
+  "StartEvent": "{0} <color=#738d43>{1}</color> が、たいきけん突入しました!",
+  "Crash": "{0} <color=#ce3f27>{1}</color>で<color=#738d43> 宇宙えいせいの残骸</color>がみつかった!",
+  "NeedUseCard": "{0} <color=#ce3f27>レッドカードキー</color> を使って箱のロックが解除されます!",
+  "RemainTime": "{0} {1}　<color=#ce3f27>{2}</color>　こわされました!",
+  "EndEvent": "{0} イベントは <color=#ce3f27>おわりました　</color>!",
+  "GetSpaceCard": "{0} <color=#ce3f27>スペースカード</color>を手に入れた!",
+  "EnterPVP": "{0} PVPゾーンに <color=#ce3f27>入ったので</color>、 他のプレイヤーがあなたに <color=#ce3f27>ダメージを与えることができるようになりました</color>",
+  "ExitPVP": "{0}  PVPゾーンの <color=#738d43>外に出たので</color> 、他のプレイヤーはあなたに <color=#738d43>ダメージを与えることができません</color>",
+  "GUI": " <color=#ce3f27>{0}</color>で、スプートニクがこわれます",
+  "Hour": "じ",
+  "Min": "分",
+  "Sec": "秒"
+}

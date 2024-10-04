@@ -1,0 +1,14 @@
+{
+  "PreStart": "{0} 2つのギャング<color=#55aaff>バゴス</color>と<color=#55aaff>バラス</color>で抗争がおきた。<color=#55aaff>{1}秒</color>の後、<color=#55aaff>Vagos</color>は<color=#55aaff>Ballas</color>の基地を攻撃し、味方を解放しようとします。",
+  "Start": "{0} <color=#55aaff>バゴス</color>はくるまのコントロールを失い、<color=#55aaff>{1}</color>にある<color=#55aaff>ガスステーション</color>モニュメントのガソリンタンクに激突した。ギャングの抗争が始まった。どちらかのギャングを<color=#738d43>助ける</color>と、彼らは<color=#738d43>お礼</color>をしてくれるでしょう。",
+  "PreFinish": "{0} ガソリンスタンドイベント<color=#ce3f27>は<color=#55aaff>{1}秒</color>でおわります！",
+  "Finish": "{0} ガソリンスタンドイベント<color=#ce3f27>はおわりました</color>！",
+  "KillAllVagos": "{0} <color=#55aaff>バゴス</color>ギャングのメンバーすべてを<color=#ce3f27>Kill</color>しました。お礼に<color=#55aaff>バラス</color>は<color=#738d43>ガソリンスタンドモニュメントの地下のかくれ家</color>をあけてくれました。そこから<color=#738d43>必要なものを持ち帰ることができます</color>。",
+  "KillAllBallas": "{0} <color=#55aaff>バラス</color>すべてを<color=#ce3f27>kill</color>しました。お礼に<color=#55aaff>バゴス</color>は<color=#738d43>ガソリンスタンドのモニュメントのトイレにあるアジト</color>へのパスワードを共有することになりました。そこから<color=#738d43>必要なものを持ち?ることができます</color>。",
+  "EventActive": "{0} イベント中です。このイベントをおわらせるには(<color=#55aaff>/gsstop</color>)、次のイベントをはじめるには(<color=#55aaff>/gsstart</color>)を入力してください！",
+  "EnterPVP": "{0} あなたはPVPゾーンに<color=#ce3f27>入った</color>ので、他のプレイヤーはあなたにダメージを<color=#ce3f27>与えることができます！</color>",
+  "ExitPVP": "{0} あなたはPVPゾーンを<color=#738d43>はなれ</color>、他のプレイヤーはあなたにダメージを<color=#738d43>与えることができなくなりました！</color>",
+  "NTeleportation": "{0} あなたはイベントゾーンにテレポートすることが<color=#ce3f27>できせん！</color>",
+  "SendEconomy": "{0} You <color=#738d43>have earned</color> <color=#55aaff>{1}</color> economics for participating in the event",
+  "NoCommand": "{0} イベントゾーンではこのコマンドを使用することは<color=#ce3f27>できません！</color>"
+}

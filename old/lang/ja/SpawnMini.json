@@ -1,0 +1,18 @@
+{
+  "mini_destroyed": "ミニコプターを削除しました",
+  "mini_perm": "このコマンドを使用できません",
+  "mini_current": "すでにミニコプターを持っています",
+  "mini_notcurrent": "ミニコプターを持っていません",
+  "mini_buildingblocked": "ビルディングブロックされているのでできません",
+  "mini_timeleft_new": "クールダウンがのこり<color=red>{0}</color> 秒あります",
+  "mini_sdistance": "ミニコプターのスポーン位置がとおすぎます",
+  "mini_terrain": "地形の外でミニコプターをスポーンしようとしています",
+  "mini_mounted": "プレイヤーがミニコプターにのっています!",
+  "mini_current_distance": "ミニコプターがとおすぎます",
+  "mini_canmount": "このミニコプターの所有者でも、所有者のチームのメンバーでもありません",
+  "mini_unlimited_fuel": "そのミニコプターは燃料を必要としません",
+  "mini_location_restricted": "ここではできません"
+}
+
+// Ver2.11.1 //
+// Editor by @ikkunn_53 //
