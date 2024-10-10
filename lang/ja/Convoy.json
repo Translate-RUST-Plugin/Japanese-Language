@@ -1,8 +1,8 @@
 {
-  "EventActive_Exeption": "This event is active now. Finish the current event! (<color=#ce3f27>/convoystop</color>)!",
+  "EventActive_Exeption": "このイベントはげんざいかい催中です。げんざいのイベントをしゅうりょうしてください (<color=#ce3f27>/convoystop</color>)!",
   "СonfigurationNotFound_Exeption": "The event configuration <color=#ce3f27>could not</color> be found!",
   "RootNotFound_Exeption": "<color=#ce3f27>Could not</color> find the route for the convoy! ({0})",
-  "PreStart": "{0} In <color=#738d43>{1}</color> the cargo will be transported along the road!",
+  "PreStart": "{0} <color=#738d43>{1}</color> では、かもつは道路に沿ってはこばれます！",
   "ConvoyAttacked": "{0} {1} <color=#ce3f27>attacked</color> a convoy",
   "EventStart": "{0} {1} <color=#738d43>started</color> moving",
   "SecurityNpcKill": "{0} The NPCs are <color=#738d43>destroyed</color>!",
