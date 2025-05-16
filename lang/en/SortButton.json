@@ -1,0 +1,12 @@
+{
+  "Error.NoPermission": "You do not have permission to use this command",
+  "Format.ButtonText": "Sort",
+  "Format.Category": "<color=#D2691E>Category</color>",
+  "Format.Disabled": "<color=#B22222>Disabled</color>",
+  "Format.Enabled": "<color=#228B22>Enabled</color>",
+  "Format.Name": "<color=#00BFFF>Name</color>",
+  "Format.Prefix": "<color=#00FF00>[Sort Button]</color>: ",
+  "Info.ButtonStatus": "Sort Button is now {0}",
+  "Info.SortType": "Sort Type is now {0}",
+  "Info.Help": "List Commands:\n<color=#FFFF00>/{0}</color> - Enable/Disable Sort Button.\n<color=#FFFF00>/{0} <sort | type></color> - change sort type."
+}

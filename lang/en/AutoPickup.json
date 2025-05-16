@@ -1,0 +1,18 @@
+{
+  "NotAllowed": "You do not have permission to use this command",
+  "Enabled": "<color=#8ee700>Enabled</color>",
+  "Disabled": "<color=#ce422b>Disabled</color>",
+  "Title": "Auto Pickup UI",
+  "Status": "Auto Pickup Status",
+  "PlantEntity": "Auto Pickup Plant Entity",
+  "CollectibleEntity": "Auto Pickup Collectible Entity",
+  "MurdererCorpse": "Auto Pickup Murderer Corpse",
+  "ScientistCorpse": "Auto Pickup Scientist Corpse",
+  "PlayerCorpse": "Auto Pickup Player Corpse",
+  "ItemDropBackpack": "Auto Pickup Item Drop Backpack",
+  "ItemDrop": "Auto Pickup Item Drop",
+  "WorldItem": "Auto Pickup World Item",
+  "LootContainer": "Auto Pickup Loot Container",
+  "CollectableGifts": "Auto Pickup Collectable Gifts",
+  "AutoClonePlants": "Auto Clone Plants"
+}

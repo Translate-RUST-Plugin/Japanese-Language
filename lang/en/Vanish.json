@@ -3,5 +3,6 @@
   "Vanished": "Vanish: <color=orange> Enabled </color>",
   "Reappear": "Vanish: <color=orange> Disabled </color>",
   "NoPerms": "You do not have permission to do this",
-  "PermanentVanish": "You are in a permanent vanish mode"
+  "PermanentVanish": "You are in a permanent vanish mode",
+  "NoPlayers": "No players found using id: {0}"
 }

@@ -1,0 +1,18 @@
+{
+  "NotAllowed": "このコマンドを使用する権限がありません",
+  "Enabled": "<color=#8ee700>有効</color>",
+  "Disabled": "<color=#ce422b>無効</color>",
+  "Title": "自動回収UI",
+  "Status": "自動回収ステータス",
+  "PlantEntity": "植物の自動回収",
+  "CollectibleEntity": "採取可能アイテムの自動回収",
+  "MurdererCorpse": "殺人鬼の死体の自動回収",
+  "ScientistCorpse": "サイエンティストの死体の自動回収",
+  "PlayerCorpse": "プレイヤーの死体の自動回収",
+  "ItemDropBackpack": "バックパックの自動回収",
+  "ItemDrop": "ドロップアイテムの自動回収",
+  "WorldItem": "ワールドアイテムの自動回収",
+  "LootContainer": "ルートコンテナの自動回収",
+  "CollectableGifts": "ギフトアイテムの自動回収",
+  "AutoClonePlants": "植物の自動クローン"
+}

@@ -1,6 +1,4 @@
 {
-  "MaxStackAmount": "チェストを {0} つ以上つみ上げようとしています！",
-  "OnlyStackSameType": "同じしゅるいのチェストしかスタックできません！",
-  "CeilingBlock": "このチェストをつみ上げるのに天井が邪魔をしています！",
-  "BuildingBlock": "チェストをつみ上げるには、けんちくけんげんが必要です！"
+  "MaxStackAmount": "最大 {0} 個のチェストまでしかスタックできません！",
+  "OnlyStackSameType": "同じ種類のチェストしかスタックできません！"
 }

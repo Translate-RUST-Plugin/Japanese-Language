@@ -11,5 +11,6 @@
   "OpenDoor": "{0} <color=#55aaff>{1}</color> <color=#738d43>opened</color> the loot container door!",
   "NTeleportation": "{0} You <color=#ce3f27>cannot</color> teleport into the event zone!",
   "SendEconomy": "{0} You <color=#738d43>have earned</color> <color=#55aaff>{1}</color> points in economics for participating in the event",
-  "NoCommand": "{0} You <color=#ce3f27>cannot</color> use this command in the event zone!"
+  "NoCommand": "{0} You <color=#ce3f27>cannot</color> use this command in the event zone!",
+  "SetOwner": "{0} Player <color=#55aaff>{1}</color> <color=#738d43>has received</color> the owner status for the <color=#55aaff>Harbor Event</color>"
 }

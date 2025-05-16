@@ -1,4 +1,4 @@
 {
-  "Enabled": "Hit icon was <color=green>enabled</color>",
-  "Disabled": "Hit icon was <color=red>disabled</color>"
+  "Enabled": "ヒットアイコンを <color=green>有効化</color> しました",
+  "Disabled": "ヒットアイコンを <color=red>無効化</color> しました"
 }

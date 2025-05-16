@@ -1,0 +1,7 @@
+{
+  "Event.Bradley": ":dagger: {time} ブラッドリー出現 `{0}`",
+  "Event.PlayerConnected": ":white_check_mark: {time} {0} が接続しました",
+  "Event.PlayerDisconnected": ":x: {time} {0} が切断しました ({1})",
+  "Plugin.GodmodeOn": ":angel: {time} Godmode 有効 `{0}`",
+  "Plugin.GodmodeOff": ":angel: {time} Godmode 無効 `{0}`"
+}

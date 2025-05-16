@@ -1,0 +1,12 @@
+{
+  "Button.Exit": "終了",
+  "Button.Give": "付与",
+  "Button.Cancel": "キャンセル",
+  "Button.Confirm": "確認",
+  "Button.Create": "作成",
+  "Button.Delete": "削除",
+  "Label.Amount": "数量",
+  "Label.SkinID": "スキンID",
+  "Label.SelectPlayer": "プレイヤーを選択",
+  "Notification.RunCommand": "次のコマンドを実行しました: {0}"
+}

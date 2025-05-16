@@ -7,5 +7,6 @@
   "Error.ScaleBlocked": "Error: Another plugin prevented you from scaling that entity to size {0}.",
   "Error.CannotMoveWithHiddenSpheres": "You may not move resized entities while spheres are configured to be hidden.",
   "GetScale.Success": "Entity scale is: {0}",
-  "Scale.Success": "Entity was scaled to: {0}"
+  "Scale.Success": "Entity was scaled to: {0}",
+  "Error.EntityNotSafeToScale": "Error: That entity cannot be safely scaled."
 }

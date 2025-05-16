@@ -21,5 +21,7 @@
   "NoUseFlareNotSpawnNpc": "{0} You <color=#ce3f27>can not</color> start the event here because there is no place for NPCs to appear in the event zone, clear out some room!",
   "NoUseFlareCooldown": "{0} You <color=#ce3f27>can not</color> start a <color=#55aaff>{1}</color> event until your cooldown expires in <color=#55aaff>{2}</color>",
   "FinishAdmin": "{0} You <color=#ce3f27>have disabled</color> the event in your position",
-  "NoDamageScientistEvent": "{0} You <color=#ce3f27>cannot</color> damage NPC! You are not the Event Owner and you are not on their team!"
+  "NoDamageScientistEvent": "{0} You <color=#ce3f27>cannot</color> damage NPC! You are not the Event Owner and you are not on their team!",
+  "NoUseFlareMinFoundations": "{0} You <color=#ce3f27>can not</color> start the event here because you have too few foundations. The limit is {1} foundations per base minimum, increase to this number or higher",
+  "SendEconomy": "{0} You <color=#738d43>have earned</color> <color=#55aaff>{1}</color> points in economics for participating in the event"
 }

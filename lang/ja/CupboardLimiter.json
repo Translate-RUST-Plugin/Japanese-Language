@@ -1,14 +1,7 @@
 {
-  "MaxLimitDefault": "TCの上限{0}になりました",
-  "MaxLimitVip": "VipのTC上限{0}に達しています",
-  "MaxLimit": "TCの上限{0}になりました",
-  "Remaining": "TCの残り数 = {0}",
-  "NoPermission": "けんげんがありません",
-  "cInspect": "ユーザー{0}は{1}のTCを持っています",
-  "cInspectOwn": "あなたのTCは{0}で、残りは{1}です",
-  "cInspectNotFound": "エラー。ユーザーがみつかりません",
-  "TeamOvercount": "このプレイヤーを招待することはできません。チームTCの上限を超えます",
-  "TeamOvercountTarget": "あなたはこのプレイヤーから招待されることはできません。チームTCの上限を超えます",
-  "cInspectUsage": "使用法： tc <partialNameOrId> ...",
-  "Error": "予期せぬエラーがです"
+  "MaxLimitDefault": "デフォルト上限に達しました：{0} TC",
+  "MaxLimitVip": "VIP上限に達しました：{0} TC",
+  "MaxLimit": "TCの最大上限 {0} に達しました",
+  "Remaining": "残り設置可能なTC数：{0}",
+  "NoPermission": "この操作を行う権限がありません。"
 }

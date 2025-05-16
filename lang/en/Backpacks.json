@@ -19,7 +19,6 @@
   "Items Fetched": "Fetched {0} \"{1}\" from backpack.",
   "Fetch Failed": "Couldn't fetch \"{0}\" from backpack. Inventory may be full.",
   "Toggled Backpack GUI": "Toggled backpack GUI button.",
-  "Backpack Items Reclaimed": "Backpack items were sent to the reclaim terminal for safe keeping.",
   "Set Gather Syntax": "Syntax: {0} <{1}> <optional page number>",
   "Page Out Of Range": "Backpack page number must be between 1 and {0}.",
   "Set Gather Mode Success": "Updated backpack gather mode for page {0} to {1}",
@@ -30,5 +29,6 @@
   "UI - Gather Existing": "Gather: Existing ↓",
   "UI - Gather Off": "Gather: Off",
   "UI - Retrieve On": "Retrieve: On ↑",
-  "UI - Retrieve Off": "Retrieve: Off"
+  "UI - Retrieve Off": "Retrieve: Off",
+  "View Backpack Protected": "That player's backpack is protected and cannot be accessed."
 }

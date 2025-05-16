@@ -1,0 +1,16 @@
+{
+  "select": "Select category...",
+  "clothing": "Clothing",
+  "weapons": "Weapons",
+  "ammo": "Ammo",
+  "medicine": "Medicine",
+  "tools": "Tools",
+  "resources": "Resources",
+  "refined": "Refined",
+  "explosives": "Explosives",
+  "components": "Components",
+  "electronics": "Electronics",
+  "keys": "Keys",
+  "building": "Building",
+  "food": "Food"
+}

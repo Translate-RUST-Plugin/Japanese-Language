@@ -1,9 +1,4 @@
 {
   "TrashHeadText": "ゴミ箱",
-  "TrashSubText": "<color=#FF4433>Warning:</color> このメニューとじると、ゴミ箱のストレージ内にいれたすべてのものが削除されます。",
-  "TrashNoBoxText": "<color=#FFFF00>ゴミ箱:</color> あなたの手元には大きな木箱がありません。",
-  "TrashNoItemText": "<color=#FFFF00>ゴミ箱:</color> あなたは手に何も持っていません。",
-  "TrashCreatedText": "<color=#FFFF00>ゴミ箱:</color> あなたが手に持っていた大きな木箱をゴミ箱にへんこうしました。",
-  "TrashAlreadyText": "<color=#FFFF00>ゴミ箱:</color> この大きな木箱はすでにゴミ箱になっています。",
-  "RaidBlockedText": "<color=#FFFF00>ゴミ箱:</color> げんざい、レイドがブロックされています。レイドしゅうりょうごにボックスを再利用するまで、アイテムは削除されません。"
+  "TrashSubText": "<color=#FF4433>警告：</color>このメニューを閉じると中のアイテムはすべて削除されます！"
 }

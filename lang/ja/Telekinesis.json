@@ -1,24 +1,6 @@
 {
-  "Error.NoPermission": "けんげんがありません。",
-  "Error.NoEntityFound": "エンティティがみつかりません。",
-  "Error.AlreadyBeingControlled": "そのエンティティはすでにコントロールされています。",
-  "Error.AlreadyUsingTelekinesis": "あなたはすでにテレキネシスを使用しています。",
-  "Error.BlockedByPlugin": "他のプラグインがテレキネシスをブロックしました。",
-  "Error.CannotMovePlayers": "プレイヤーにたいしてテレキネシスを使用することはできません。",
-  "Error.NotOwned": "そのエンティティを所有していません。",
-  "Error.BuildingBlocked": "ビルディングブロックされているあいだはテレキネシスを使用することはできません。",
-  "Error.MaxDistance": "そんなにとおくからテレキネシスを使うことはできません",
-  "MessagePrefix": "<color=#0ff>[Telekinesis]</color>: ",
-  "Info.Enabled": "テレキネシスがゆうこうになりました。\n{0}",
-  "Info.Disabled": "テレキネシスがむこうになりました。",
-  "Info.Disabled.Inactivity": "非アクティブのため、テレキネシスがむこうになりました。",
-  "Info.Disabled.BuildingBlocked": "ビルディングブロックされているため、テレキネシスはむこうになっています。",
-  "Undo.Error.NotFound": "リセットするエンティティがみつかりません。",
-  "Undo.Success": "さいごに使用したテレキネシスはリセットされました。",
-  "Mode.Changed": "げんざいのモード: {0}",
-  "Mode.MovePlayerOffset": "とおざける/近づける",
-  "Mode.OffsetY": "上にいどう/下にいどう",
-  "Mode.RotateX": "Xじくを中心に回てん (pitch)",
-  "Mode.RotateY": "Yじくを中心に回てん (yaw)",
-  "Mode.RotateZ": "Zじくを中心に回てん (roll)"
+  "Error.NoPermission": "この操作を行う権限がありません。",
+  "Error.NoEntityFound": "エンティティが見つかりません。",
+  "Info.Enabled": "テレキネシスを有効にしました。\n{0}",
+  "Info.Disabled": "テレキネシスを無効にしました。"
 }

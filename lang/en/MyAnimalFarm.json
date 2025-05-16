@@ -1,0 +1,16 @@
+{
+  "bear": "Bear",
+  "wolf": "Wolf",
+  "stag": "Stag",
+  "boar": "Boar",
+  "UI_MaxFarms": "You have created a maximum of farms",
+  "UI_ChooseType": "Select the type of farm",
+  "UI_NoPerm": "You don't have access to create a farm",
+  "UI_NeedFood": "need food",
+  "UI_BoxNo": "<color=red> not connected</color>",
+  "UI_BoxYes": "<color=green>connected</color>",
+  "UI_TimeReward": "reward every {0}m. {1}s.",
+  "UI_CraftTrap": "Craft trap",
+  "UI_CraftTrap2": "Craft",
+  "UI_tohitch": "attach animal"
+}

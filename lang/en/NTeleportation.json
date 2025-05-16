@@ -267,5 +267,6 @@
   "Underwater Lab": "Underwater Lab",
   "Water Treatment Plant": "Water Treatment Plant",
   "Water Well": "Water Well",
-  "Wild Swamp": "Wild Swamp"
+  "Wild Swamp": "Wild Swamp",
+  "BlockedAuthMarkerTeleport": "You have been TC blocked from using the marker teleport!"
 }

@@ -37,5 +37,7 @@
   "Format_HeaderColor": "#FFA500",
   "Format_HeaderSize": "14",
   "Format_ErrorColor": "#FF0000",
-  "Format_ErrorSize": "12"
+  "Format_ErrorSize": "12",
+  "Error_TimeLeft": "You must wait another {0} hours to attack this player.",
+  "Error_CannotAccessEntity": "You are not allowed to access this"
 }
