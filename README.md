@@ -28,12 +28,16 @@ Oxideの言語ファイルに適用します
 
 # 日本語化について
 追加されていない未翻訳のプラグインがありましたら下記のDiscordの
+
 「langファイル」のチャンネルに言語ファイルを提出することで翻訳致します
+
 Discord:RUST ADMIN JAPAN
+
 [https://discord.gg/57fY7cnZ7q](https://discord.gg/57fY7cnZ7q)
 
 ご不明点がありましたらDiscord↑ または X のDMにてご連絡ください
-興味のある方は [@TF2_IKKUNN](https://x.com/TF2_IKKUNN)までご連絡ください
+
+[@TF2_IKKUNN](https://x.com/TF2_IKKUNN)
 
 ----------
 
