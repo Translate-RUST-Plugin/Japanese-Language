@@ -27,7 +27,8 @@ Oxideの言語ファイルに適用します
 ----------
 
 # 日本語化について
-追加されていない未翻訳のプラグインがありましたら下記のDiscordの「langファイル」のチャンネルに言語ファイルを提出することで翻訳致します
+追加されていない未翻訳のプラグインがありましたら下記のDiscordの
+「langファイル」のチャンネルに言語ファイルを提出することで翻訳致します
 Discord:RUST ADMIN JAPAN
 [https://discord.gg/57fY7cnZ7q](https://discord.gg/57fY7cnZ7q)
 
