@@ -1,4 +1,5 @@
 {
-  "TrashHeadText": "ゴミ箱",
-  "TrashSubText": "<color=#FF4433>警告：</color>このメニューを閉じると中のアイテムはすべて削除されます！"
+  "TRASHCANTITLE": "ごみ箱",
+  "SPLITSTACK": "スタックを分割",
+  "ITEMACTION": "アクション"
 }

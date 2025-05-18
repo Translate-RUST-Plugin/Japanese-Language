@@ -1,5 +1,17 @@
 {
-  "MissingNPC": "近くにNPCショップ店員が見つかりません。",
-  "NoSpawnRoom": "ボートをスポーンするスペースが足りません。",
-  "BoatSpawnedNotification": "あなたのタグボートが建造され、近くで待機中です。"
+  "MissingNPC": "近くにボート販売NPCが見つかりません。",
+  "AddPointSuccess": "新しいロケーション {0} を漁村タイプ {1} に保存しました。",
+  "NoSpawnRoom": "ボートを出現させる十分なスペースがありません。",
+  "MissingItems": "この船を建造するのに必要なアイテムが足りません。",
+  "RepossessNotification": "タグボートを引き渡すまであと {0} 秒です。運転席に座って引き取ってください。",
+  "ReposessedNotification": "タグボートを引き取りに来なかったため、没収されました。",
+  "UITugboatOption": "タグボートはいかが？",
+  "UIOptionNumber_Revised": "0",
+  "UIBoatVendorTitle": "ボート販売員",
+  "UIVendorText": "この船を作るには、いくつかのアイテムが必要です…",
+  "BoatSpawnedNotification": "あなたのボートが建造され、近くで待機しています。",
+  "hudLocationText": "<size=20>タグボート</size>",
+  "DisableNoclip": "このコマンドを使用するには noclip を無効にしてください。",
+  "PurchaseLimit": "このワイプで購入可能なボートの上限に達しています（{0}）。",
+  "TugboatLimit": "現在サーバーが上限に達しているため、タグボートを購入できません。"
 }

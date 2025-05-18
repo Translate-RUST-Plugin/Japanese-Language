@@ -1,5 +1,5 @@
 {
-  "GetPogoStick": "{0} あなたはポゴスティックを<color=#738d43>獲得</color>しました！",
-  "NoPermission": "{0} ポゴスティックを使う<color=#b03b1e>権限がありません</color>！",
-  "AreaBlock": "{0} このエリアではポゴの使用が<color=#b03b1e>禁止されています</color>！"
+  "NoPermission": "この操作を行う権限がありません",
+  "Activated": "ポゴスティックが有効になりました！ジャンプを試してください。",
+  "Deactivated": "ポゴスティックを無効化しました。"
 }

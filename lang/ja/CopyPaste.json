@@ -1,5 +1,22 @@
 {
   "FILE_NOT_EXISTS": "ファイルが存在しません",
+  "FILE_BROKEN": "ファイルにエラーがあるため、貼り付け中に問題が発生しました。",
   "NO_ACCESS": "このコマンドを使用する権限がありません",
-  "PASTE_SUCCESS": "構造物の貼り付けに成功しました"
+  "SYNTAX_PASTEBACK": "使い方: /pasteback <ファイル名> <オプション値>\nheight XX - 高さ調整\nvending - 自販機の情報と販売内容\nstability <true/false> - 安定性の有効/無効\ndeployables <true/false> - 設置物のコピー有無\nauth <true/false> - 鍵とTCホワイトリストのコピー有無\nposition <x,y,z> - 座標を上書き\nrotation <X> - 回転角度を上書き",
+  "SYNTAX_PASTE_OR_PASTEBACK": "使い方: /paste または /pasteback <ファイル名> <オプション値>\nheight XX - 高さ調整\nautoheight true/false - 最適な高さを自動設定（傾斜注意）\nblockcollision XX - 衝突がある場合ペーストをブロック\ndeployables true/false - false で設置物を削除\ninventories true/false - false でインベントリを無視\nvending - 自販機の情報と販売内容\nstability <true/false> - 安定性の有効/無効\nposition <x,y,z> - 座標を上書き\nrotation <X> - 回転角度を上書き",
+  "PASTEBACK_SUCCESS": "建築物を元の位置に復元しました！",
+  "PASTE_SUCCESS": "建築物の貼り付けに成功しました！",
+  "SYNTAX_COPY": "使い方: /copy <ファイル名> <オプション値>\nradius XX（デフォルト3）- オブジェクト検索半径\nmethod proximity/building（デフォルト proximity）- proximityは周囲全体、buildingは建築単位でコピー\ndeployables true/false - 設置物の保存有無\ninventories true/false - インベントリの保存有無",
+  "NO_ENTITY_RAY": "目の前にコピー可能なオブジェクトが見つかりません",
+  "COPY_SUCCESS": "建築物を {0} として正常にコピーしました！",
+  "NO_PASTED_STRUCTURE": "やり直すにはまず建築物を貼り付けてください",
+  "UNDO_SUCCESS": "貼り付けを正常に取り消しました！",
+  "NOT_FOUND_PLAYER": "プレイヤーが見つかりませんでした",
+  "SYNTAX_BOOL": "オプション {0} は true または false にしてください",
+  "SYNTAX_FLOAT": "オプション {0} は小数で指定してください",
+  "SYNTAX_HEIGHT": "height オプションは数値で指定してください",
+  "SYNTAX_BLOCKCOLLISION": "blockcollision は数値で指定してください（0で無効）",
+  "SYNTAX_RADIUS": "radius オプションは数値で指定してください",
+  "BLOCKING_PASTE": "貼り付けを妨げているものがあります",
+  "AVAILABLE_STRUCTURES": "<color=orange>利用可能な建築物:</color>"
 }

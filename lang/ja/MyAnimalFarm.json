@@ -3,6 +3,14 @@
   "wolf": "オオカミ",
   "stag": "シカ",
   "boar": "イノシシ",
-  "UI_MaxFarms": "ファームの最大数に達しました",
-  "UI_ChooseType": "ファームの種類を選んでください"
+  "UI_MaxFarms": "ファームの最大数に達しています",
+  "UI_ChooseType": "飼育する動物を選んでください",
+  "UI_NoPerm": "ファームを作成する権限がありません",
+  "UI_NeedFood": "エサが必要です",
+  "UI_BoxNo": "<color=red> 未接続</color>",
+  "UI_BoxYes": "<color=green> 接続済み</color>",
+  "UI_TimeReward": "{0}分{1}秒ごとに報酬",
+  "UI_CraftTrap": "トラップを作成",
+  "UI_CraftTrap2": "作成",
+  "UI_tohitch": "動物をつなぐ"
 }

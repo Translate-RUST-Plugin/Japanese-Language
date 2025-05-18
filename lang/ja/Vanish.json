@@ -1,5 +1,8 @@
 {
+  "VanishCommand": "vanish",
   "Vanished": "Vanish：<color=orange>有効</color>",
   "Reappear": "Vanish：<color=orange>無効</color>",
-  "NoPerms": "この操作を行う権限がありません"
+  "NoPerms": "この操作を行う権限がありません",
+  "PermanentVanish": "あなたは恒久的なバニッシュモード中です",
+  "NoPlayers": "ID「{0}」のプレイヤーが見つかりませんでした"
 }

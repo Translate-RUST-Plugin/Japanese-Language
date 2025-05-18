@@ -1,4 +1,4 @@
 {
-  "Enabled": "ヒットアイコンを <color=green>有効化</color> しました",
-  "Disabled": "ヒットアイコンを <color=red>無効化</color> しました"
+  "Enabled": "ヒットアイコンが<color=green>有効化</color>されました",
+  "Disabled": "ヒットアイコンが<color=red>無効化</color>されました"
 }

@@ -1,5 +1,9 @@
 {
   "UI.Header": "シャーシのクラフト",
   "UI.CostLabel.Free": "無料",
-  "UI.CostLabel.NoPermission": "権限なし"
+  "UI.CostLabel.NoPermission": "権限なし",
+  "UI.Button.Craft": "クラフト",
+  "UI.Button.Cancel": "キャンセル",
+  "UI.Message.NoVehicle": "このアイテムを使える車両が近くにありません",
+  "UI.Message.CraftingStarted": "シャーシのクラフトを開始しました！"
 }

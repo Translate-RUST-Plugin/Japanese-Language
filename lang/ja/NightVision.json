@@ -1,11 +1,11 @@
 {
   "ChatPrefix": "<color=#00ff00>[ナイトビジョン]</color>",
-  "NoPerms": "このコマンドを使う権限がありません！",
-  "TimeLocked": "時間が {0} にロックされました",
-  "TimeUnlocked": "時間ロックが解除されました",
-  "HelpTitle": "<size=16><color=#00ff00>ナイトビジョン</color> ヘルプ</size>\n",
-  "Help1": "<color=#00ff00>/nightvision <0-24>(/nv)</color> - 指定時間での夜間視野の切り替え",
-  "Help2": "<color=#00ff00>/unlimitednvg (/unvg)</color> - 無限ナイトビジョンゴーグルの装着/解除",
-  "EquipUNVG": "無限ナイトビジョンゴーグルを装備しました",
-  "RemoveUNVG": "無限ナイトビジョンゴーグルを外しました"
+  "NoPerms": "このコマンドを使用する権限がありません！",
+  "TimeLocked": "時間が {0} に固定されました",
+  "TimeUnlocked": "時間の固定が解除されました",
+  "HelpTitle": "<size=16><color=#00ff00>ナイトビジョン ヘルプ</color></size>\n",
+  "Help1": "<color=#00ff00>/nightvision <0-24>(/nv)</color> - 夜間視界の時間を固定/解除",
+  "Help2": "<color=#00ff00>/unlimitednvg (/unvg)</color> - 無制限ナイトビジョン装着/解除",
+  "EquipUNVG": "無制限ナイトビジョンを装着しました",
+  "RemoveUNVG": "無制限ナイトビジョンを解除しました"
 }

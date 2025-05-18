@@ -1,6 +1,6 @@
 {
-  "Error.NoPermission": "この操作を行う権限がありません。",
-  "Error.Syntax": "構文: {0} <サイズ>",
-  "GetScale.Success": "エンティティのスケール：{0}",
-  "Scale.Success": "エンティティはスケール {0} に設定されました"
+  "Prefix": "<color=#BFFFBF>[サイズ管理]</color>",
+  "ScaleChanged": "{0} のサイズを {1} に変更しました",
+  "InvalidSize": "サイズが無効です！1.0 ～ 5.0 の間で指定してください",
+  "NoPermission": "このコマンドを使う権限がありません"
 }

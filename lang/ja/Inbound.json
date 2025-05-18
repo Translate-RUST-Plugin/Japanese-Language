@@ -1,7 +1,22 @@
 {
-  "PatrolHeli": "パトロールヘリが接近中{0}{1}",
+  "PatrolHeli": "パトロールヘリコプターが接近中{0}{1}",
   "CargoShip_": "カーゴシップが接近中{0}{1}",
+  "CargoShipApproachHarbor": "カーゴシップが港に近づいています{0}",
+  "CargoShipAtHarbor": "カーゴシップが港に停泊しました{0}",
+  "CargoShipLeaveHarbor": "カーゴシップが港を離れています{0}",
+  "CargoPlane_": "{0}カーゴプレーンが接近中{1}{2}",
   "CH47": "チヌークが接近中{0}{1}",
-  "BradleyAPC": "ブラッドリーAPCが接近中{0}",
-  "SupplySignal": "{0} が補給信号を使用しました{1}"
+  "BradleyAPC": "ブラッドリー装甲車が接近中{0}",
+  "TravellingVendor": "移動商人が接近中{0}",
+  "Excavator_": "{0} がエクスカベーターを起動しました{1}",
+  "ExcavatorSupplyRequest": "{0} が補給物資を要請しました{1}",
+  "HackableCrateSpawned": "ハッキング可能なクレートが出現しました{0}",
+  "HackingCrate": "{0} がロックされたクレートをハッキングしています{1}",
+  "SupplySignal": "{0} が補給信号を展開しました{1}",
+  "SupplyDropDropped": "{0}補給物資が投下されました{1}",
+  "SupplyDropLanded_": "{0}補給物資が着地しました{1}",
+  "SupplyDropPlayer": "{0} の ",
+  "Location": " 場所: {0}",
+  "Destination": " 行き先: {0}",
+  "DiscordMessage_": "{0}"
 }

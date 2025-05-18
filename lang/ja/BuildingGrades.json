@@ -1,6 +1,20 @@
 {
   "NotAllowed": "<color=#FF1919>このコマンドを使う権限がありません。</color>",
   "UnknownGrade": "<color=#FF1919>不明なグレードです。</color>",
-  "UpgradeNotEnoughItems": "いずれの建物もアップグレードされませんでした。不足：\n{0}",
-  "FinishedUpgrade": "<color=#FF1919>{0}</color>個の建物をアップグレードしました。"
+  "UnknownCategory": "<color=#FF1919>不明なカテゴリです。</color> 使用可能なカテゴリ: <color=#009EFF>{0}</color>",
+  "NotLookingAt": "<color=#FF1919>建築ブロックを見ていません。</color>",
+  "RaidBlocked": "<color=#FF1919>レイドブロック中は実行できません。</color>",
+  "CombatBlocked": "<color=#FF1919>戦闘中は実行できません。</color>",
+  "OnCooldown": "このコマンドを使用するには <color=#FF1919>{0}</color> 秒待つ必要があります。",
+  "BuildingBlocked": "建築権限がない場合、このコマンドは使用できません。",
+  "MissingItemsFormat": "* <color=#FF1919>{0}</color> x{1}",
+  "StartUpgrade": "アップグレードを開始します。しばらくお待ちください。",
+  "StartDowngrade": "ダウングレードを開始します。しばらくお待ちください。",
+  "AlreadyProcess": "既に処理が実行中です。しばらくお待ちください。",
+  "UpgradeNotEnoughItems": "建築物はアップグレードされませんでした。必要な素材が足りません：\n{0}",
+  "UpgradeNotEnoughItemsSuccess": "<color=#FF1919>{0}</color> 個の建築ブロックがアップグレードされました。一部は必要な素材が不足しています：\n{1}",
+  "NotUpgraded": "いずれの建築物もアップグレードされませんでした。",
+  "NotDowngraded": "いずれの建築物もダウングレードされませんでした。",
+  "FinishedUpgrade": "<color=#FF1919>{0}</color> 個の建築ブロックがアップグレードされました。",
+  "FinishedDowngrade": "<color=#FF1919>{0}</color> 個の建築ブロックがダウングレードされました。"
 }

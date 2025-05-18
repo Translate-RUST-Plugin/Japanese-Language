@@ -1,7 +1,16 @@
 {
   "select": "カテゴリを選択...",
-  "clothing": "服",
+  "clothing": "衣類",
   "weapons": "武器",
-  "tools": "道具",
+  "ammo": "弾薬",
+  "medicine": "医療品",
+  "tools": "ツール",
+  "resources": "資源",
+  "refined": "精錬素材",
+  "explosives": "爆発物",
+  "components": "部品",
+  "electronics": "電子機器",
+  "keys": "鍵",
+  "building": "建築資材",
   "food": "食料"
 }

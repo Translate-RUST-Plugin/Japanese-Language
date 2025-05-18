@@ -3,6 +3,11 @@
   "AuthorizedPlayers": "{0}（所有者: {1}）の許可プレイヤー：",
   "NoEntityFound": "エンティティが見つかりません。{0} を持って右クリックしてください。",
   "NoOwner": "このエンティティの所有者が見つかりません。",
-  "ToolActivated": "AdminHammerを有効化しました。",
-  "ToolDeactivated": "AdminHammerを無効化しました。"
+  "ChatEntityOwnedBy": "この {0} の所有者は {1} です",
+  "DoorCode": "ドアコード：<color=yellow>{0}</color>",
+  "ConsoleEntityOwnedBy": "この {0} の所有者：www.steamcommunity.com/profiles/{1}",
+  "ToolActivated": "AdminHammer を有効化しました。",
+  "ToolDeactivated": "AdminHammer を無効化しました。",
+  "AdminUsedTool": "{0} [{1}] が {2}（所有者: {3} [{4}]）に AdminHammer を使用（位置: {5}）",
+  "PerformanceMode": "パフォーマンスモード中は <color=yellow>/{0}</color> コマンドを使用してください。"
 }

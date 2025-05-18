@@ -1,6 +1,9 @@
 {
-  "SyntaxPlayer": "<color=red>構文エラー</color>：正しくは\n\n<color=green>/bdgive <タイプ> <SteamID/プレイヤー名> <数量></color>",
-  "Receive": "<color=orange>{0}</color> を <color=orange>{1}</color>個 受け取りました！",
-  "PlayerReceive": "プレイヤー {0} ({1}) に {2} x {3} を付与しました！",
-  "NotAdmin": "このコマンドを使う権限がありません！"
+  "SyntaxPlayer": "<color=red>構文エラー</color> 正しい形式: /bdgive <タイプ> <名前またはID> <数>",
+  "CooldownTime": "クールダウン中です！次は {0} 後に呼び出せます。",
+  "Permission": "<color=orange>{0}</color> を使用する権限がありません。",
+  "Receive": "<color=orange>{1}</color> x <color=orange>{0}</color> を受け取りました！",
+  "NotOnGround": "<color=orange>{0}</color> は地面に落とす必要があります。信号は返金されました。",
+  "CannotLoot": "あなたのものではないためルートできません！",
+  "BuyPermission": "<color=orange>{0}</color> を購入する権限がありません。"
 }

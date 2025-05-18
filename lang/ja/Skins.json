@@ -1,7 +1,7 @@
 {
-  "Not Allowed": "このコマンドを使う権限がありません。",
-  "Cannot Use": "現在その操作はできません。",
-  "Help": "コマンド使用方法:\nskin show - スキン表示\nskin get - アイテムのスキンID確認\nskin purgecache - キャッシュ削除",
-  "Skin Added": "スキンの追加に成功しました。",
-  "Skin Removed": "スキンが削除されました。"
+  "NoPerm": "このコマンドを使用する権限がありません",
+  "SkinChanged": "スキンが変更されました",
+  "InvalidItem": "無効なアイテムです",
+  "InvalidSkin": "そのスキンは使用できません",
+  "Cooldown": "クールダウン中です。しばらくお待ちください"
 }

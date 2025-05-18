@@ -1,7 +1,7 @@
 {
   "Chat": "<color=#bebebe>[<color=#de8732>マジックパネル</color>] {0}</color>",
-  "On": "表示",
-  "Off": "非表示",
+  "On": "オン",
+  "Off": "オフ",
   "SettingsChanged": "すべてのパネルが {0} になりました",
-  "Help": "マジックパネルの表示切替：\n<color=#de8732>/mp on</color> 表示\n<color=#de8732>/mp off</color> 非表示"
+  "Help": "マジックパネルの表示を切り替えます:\n<color=#de8732>/mp on</color> 全パネル表示\n<color=#de8732>/mp off</color> 全パネル非表示"
 }

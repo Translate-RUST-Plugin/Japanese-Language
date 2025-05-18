@@ -1,6 +1,5 @@
 {
-  "Pickup": "リサイクラーを拾いました！",
-  "Receive": "リサイクラーを受け取りました！",
-  "Disabled": "拾う機能は無効です！",
-  "Permission": "この操作を行うには権限が必要です！"
+  "Permission Denied": "この操作を行う権限がありません",
+  "Recycler Speed Changed": "リサイクラーの速度を {0} 倍に設定しました",
+  "Speed Must Be Between": "速度は 0.1 ～ 5.0 の間で指定してください"
 }

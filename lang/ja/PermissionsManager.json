@@ -1,8 +1,9 @@
 {
-  "title": "権限マネージャー: ",
-  "NoGroup": "グループ {0} が見つかりませんでした。",
-  "NoPlayer": "プレイヤー {0} が見つかりませんでした。",
-  "GUIAll": "すべて許可",
-  "GUINone": "すべて拒否",
-  "GUIBack": "戻る"
+  "NoPermission": "このコマンドを使う権限がありません！",
+  "GroupCreated": "グループ「{0}」を作成しました。",
+  "GroupDeleted": "グループ「{0}」を削除しました。",
+  "PermissionGranted": "「{0}」に権限「{1}」を付与しました。",
+  "PermissionRevoked": "「{0}」の権限「{1}」を削除しました。",
+  "AlreadyHasPermission": "すでにこの権限を持っています。",
+  "DoesNotHavePermission": "この権限は付与されていません。"
 }

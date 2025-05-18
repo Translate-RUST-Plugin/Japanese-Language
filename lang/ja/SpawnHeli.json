@@ -1,5 +1,22 @@
 {
-  "error_no_permission": "このコマンドを使う権限がありません。",
-  "error_building_blocked": "建築ブロック中は使用できません。",
-  "error_on_cooldown": "クールダウン終了まで <color=red>{0}</color> 残っています。"
+  "error_no_permission": "このコマンドを使用する権限がありません。",
+  "error_building_blocked": "建築がブロックされているため、実行できません。",
+  "error_on_cooldown": "クールダウン終了まで <color=red>{0}</color> 残っています。",
+  "error_insufficient_space": "十分なスペースがありません。",
+  "error_conflicting_heli": "新しいヘリコプターをスポーンするには、すでにあるヘリコプターを破壊してください。",
+  "error_spawn_distance": "その距離にはヘリコプターをスポーンできません。",
+  "error_spawn_location": "適切なスポーン位置が見つかりませんでした。",
+  "error_heli_occupied": "現在このヘリコプターは使用中です。",
+  "error_heli_distance": "このヘリコプターは遠すぎます。",
+  "error_cannot_mount": "あなたはこのヘリコプターの所有者ではないか、チームに所属していません。",
+  "error_unlimited_fuel": "このヘリコプターは燃料を必要としません。",
+  "info_mini_destroyed": "あなたのミニコプターが破壊されました。",
+  "info_scrap_heli_destroyed": "あなたのスクラップヘリが破壊されました。",
+  "info_attack_heli_destroyed": "あなたのアタックヘリが破壊されました。",
+  "error_mini_exists": "すでにミニコプターを所有しています。",
+  "error_scrap_heli_exists": "すでにスクラップヘリを所有しています。",
+  "error_attack_heli_exists": "すでにアタックヘリを所有しています。",
+  "error_mini_not_found": "ミニコプターを所有していません。",
+  "error_scrap_heli_not_found": "スクラップヘリを所有していません。",
+  "error_attack_heli_not_found": "アタックヘリを所有していません。"
 }

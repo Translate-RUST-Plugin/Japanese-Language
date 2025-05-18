@@ -1,6 +1,5 @@
 {
-  "Error.NoPermission": "このコマンドを使う権限がありません",
-  "Format.ButtonText": "ソート",
-  "Format.Category": "<color=#D2691E>カテゴリ</color>",
-  "Info.ButtonStatus": "ソートボタンは現在 {0}"
+  "Sort": "ソート",
+  "NoPermission": "この操作を行う権限がありません",
+  "Sorted": "コンテナをソートしました"
 }

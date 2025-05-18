@@ -1,5 +1,26 @@
 {
   "Prefix": "<color=#DFF008>[DN]</color>",
-  "NoPickup": "{0} この装飾エンティティは回収できません。",
-  "PlacementLimit": "{0} このアイテムの配置上限に達しました。"
+  "WarnMarketCooldown": "{0} 次のアイテムを購入する前に少しお待ちください。",
+  "NoPickup": "{0} このエンティティは装飾用のため回収できません。",
+  "NoGather": "{0} このエンティティは装飾用のため採取できません。",
+  "PlacementLimit": "{0} このアイテムタイプの設置上限に達しています。",
+  "BuildAuthReq": "{0} このアイテムを設置するには建築権限が必要です。",
+  "NP": "{0} このエンティティは回収できません。",
+  "WP": "{0} 次のエンティティを回収する前に少しお待ちください。",
+  "GiveItem": "{0} あなたは {2} を {1} 個受け取りました。",
+  "NotifyConsoleInvalid": "{0} 無効なスキンです: {1}。有効なキー一覧はコンソールに出力されています。",
+  "NotifyOfConsole": "{0} 使い方: /giveprefab <スキンID> <任意: 数量>\n有効なキー一覧はコンソールに出力されています。",
+  "NotifyInConsole": "{0}",
+  "NEC": "{0} {3} を {2} 個購入するには {1} が不足しています。",
+  "broadcastmsg": "{0} <color=#51ff00>/{1}</color> を入力するとネイチャーマーケットを開いて設置型自然アイテムを購入できます。",
+  "itemDisabled": "{0} このアイテムは現在使用できません。",
+  "dnkillentities": "すべての設置型自然エンティティを削除しました",
+  "dnkillentitiesdata": "すべての設置型自然エンティティとそのデータを削除しました。",
+  "NoUsePerms": "設置型自然アイテムを使用する権限がありません。",
+  "PickupNotify": "<color=#ff8300>{0}</color> をアクティブにして <color=#ff8300>マウスの中央ボタン</color> を押すか、<color=#ff8300>/dnpickup</color> コマンドで自然アイテムを回収できます。\n<color=#ff8300>Shift</color> を押しながら設置することで高さも調整できます。",
+  "PickupNotifyNoInput": "<color=#ff8300>/dnpickup</color> コマンドを使用して自然アイテムを回収できます。\n<color=#ff8300>Shift</color> を押しながら設置することで高さも調整できます。",
+  "dnkillentitiesplayer": "{1} に対して {0} 個のエンティティを削除しました。",
+  "PurgeEnabled": "自動削除が有効になりました: {0}。\ndnpurge true/false で切り替え可能です。",
+  "PurgeEnabledAnnouncement": "自動削除が有効になり、すべての設置型自然アイテムが削除されました。",
+  "PurgeDisabledAnnouncement": "自動削除が無効になりました。自然エンティティを設置できるようになりました。"
 }

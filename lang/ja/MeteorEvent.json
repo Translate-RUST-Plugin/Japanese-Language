@@ -1,5 +1,21 @@
 {
-  "NoPermission": "このコマンドを使う権限がありません！",
-  "MeteorHelp": "メテオコマンド：\n<color=#5c81ed>/{0} run 数量</color> - 流星群イベント開始",
-  "ShowerBroadcast": "天文学者より：数秒後に <color=#5c81ed>{0}</color> 個の流星が降ります！"
+  "NoPermission": "このコマンドを使用する権限がありません！",
+  "MeteorHelp": "メテオシャワーコマンド:\n<color=#5c81ed>/{0} run <数></color> - <数>個の流星を降らせるメテオシャワーを開始します。\n<color=#5c81ed>/{0} direct <プレイヤーIDまたは名前></color> - 指定プレイヤーの場所に流星を落とします。\n<color=#5c81ed>/{0} kill</color> - マップ全体の流星をすべて消します。",
+  "WrongSyntax_1": "構文が間違っています！\n使用法: <color=#5c81ed>/{0} run <数></color>",
+  "WrongSyntax_2": "構文が間違っています！\n使用法: <color=#5c81ed>/{0} direct <プレイヤーIDまたは名前></color>",
+  "MeteorInfo": "<color=#5c81ed>{0}</color>個の流星によるメテオシャワーを開始しました！",
+  "DirectMeteorInfo": "<color=#5c81ed>{0}</color> の頭上に <color=#5c81ed>{1}</color> 個の流星を落としました！",
+  "NoPlayerFound": "<color=#5c81ed>{0}</color> というプレイヤーが見つかりませんでした。",
+  "SpecifyNickname": "ニックネームが複数一致しました。より具体的な名前を指定してください。対象: <color=#5c81ed>{0}</color>",
+  "ShowerBroadcast": "天文学者によると、数秒後にメテオシャワーが発生します！\n流星の数はおおよそ <color=#5c81ed>{0}</color> 個です！",
+  "MeteorsKilled": "マップ全体の流星をすべて消去しました！",
+  "NoBigMeteorDig": "大型流星は近接武器では破壊できません。爆発物が必要です！",
+  "MeteorHelpUser": "メテオシャワーコマンド:\n<color=#5c81ed>/{0} buy normal</color> - {1} 個の流星によるシャワーを {2} {3} で購入します。\n<color=#5c81ed>/{0} buy direct <プレイヤーIDまたは名前></color> - 指定プレイヤーの場所へ流星を落とす攻撃を {4} {5} で購入します。",
+  "OptionDisabled": "このオプションは無効化されています！",
+  "EventOnCooldown": "このイベントは現在クールダウン中です！次の開始まで <color=#5c81ed>{0}</color> 秒待つ必要があります。",
+  "PurchasedEvent": "<color=#5c81ed>{1} {0}</color> でメテオシャワーを購入しました！",
+  "NoRequiredItem": "イベントを購入するために必要なアイテムがありません！必要: <color=#5c81ed>{1} {0}</color>",
+  "BuyDirectOnlyYou": "自分自身にしかダイレクト攻撃を購入できません！",
+  "PurchasedDirectEvent": "<color=#5c81ed>{1} {0}</color> でダイレクトメテオシャワーを購入しました！",
+  "Money": "RP（報酬ポイント）"
 }

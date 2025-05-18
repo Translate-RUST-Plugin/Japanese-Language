@@ -1,11 +1,16 @@
 {
   "AdminTP": "テレポート",
-  "Godmode": "無敵モード",
+  "Godmode": "無敵",
   "Radar": "レーダー",
   "Vanish": "透明化",
-  "NewTP": "新しいTP",
+  "NewTP": "新TP",
   "PA": "プレイヤー管理",
-  "Syntax": "無効な構文：/{0} {1}",
+  "Syntax": "無効な構文: /{0} {1}",
+  "No Custom Location Set": "カスタム位置が設定されていません。",
+  "Removed Custom Location": "カスタムTP座標を削除しました。代わりに管理者エリアへ移動します。",
+  "Set Custom TP Coordinates": "現在地 {0} にTP座標を設定しました。",
+  "Set Admin TP Coordinates": "管理エリアTP座標を現在地 {0} に設定しました。",
   "Panel Shown": "管理パネルを表示・更新しました",
-  "Panel Hidden": "管理パネルを非表示にしました"
+  "Panel Hidden": "管理パネルを非表示にしました",
+  "Usage": "使用方法: /{0} show/hide/settp/removetp"
 }
