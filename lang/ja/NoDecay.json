@@ -1,0 +1,6 @@
+{
+  "NoPermission": "{0} はこの操作を行う権限がありません\n",
+  "ItemMoveBlocked": "{1} にあるTCに {0} を追加するのがブロックされました\n",
+  "DecayBlocked": "{1} にある {0} の劣化が無効化されました\n",
+  "OutOfRange": "{1} にある {0} はTCの範囲外でした\n"
+}

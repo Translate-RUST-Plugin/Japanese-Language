@@ -1,0 +1,20 @@
+{
+  "NoPerms": "このコマンドを使用する権限がありません。",
+  "CMDBPResetArgs": "このコマンドには1つの引数が必要です。形式: /bpreset プレイヤー名 または プレイヤーID",
+  "CMDUnlockAllArgs": "このコマンドには1つの引数が必要です。形式: /bplunlockall プレイヤー名 または プレイヤーID",
+  "CMDRemoveArgs": "このコマンドには少なくとも2つの引数が必要です。形式: /bpremove プレイヤー名 または プレイヤーID item.shortname",
+  "PlayerNotFound": "{0} という識別子のプレイヤーが見つかりません",
+  "ResetPlayersBps": "{0} の設計図をリセットしました",
+  "ResetAllBps": "すべての設計図をリセットしました",
+  "UnlockAllPlayersBps": "{0} のすべての設計図をアンロックしました",
+  "UnlockPlayersBps": "{1} に対して {0} の設計図をアンロックしました",
+  "RemovePlayersBps": "{1} から {0} の設計図を削除しました",
+  "CannotFindBPConfig": "{1} 設定内に {0} の設計図が見つかりません。アイテムの shortname または ID を使用してください",
+  "CannotFindBP": "{0} の設計図が見つかりません。アイテムの shortname または ID を使用してください",
+  "BlueprintLocked": "{1} に対して {0} の設計図はロックされています",
+  "CMDUnlockAll": "bpunlockall",
+  "CMDUnlock": "bpunlock",
+  "CMDBPReset": "bpreset",
+  "CMDBPRemove": "bpremove",
+  "CMDWipeAll": "bpwipeall"
+}
