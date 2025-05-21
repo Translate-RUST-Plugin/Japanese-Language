@@ -1,0 +1,6 @@
+{
+  "NoPermission": "{0} does not have permission\n",
+  "ItemMoveBlocked": "{0} was blocked from being added to TC at {1}\n",
+  "DecayBlocked": "Decay was overriden on {0} at {1}\n",
+  "OutOfRange": "{0} was out of TC range, at {1}\n"
+}

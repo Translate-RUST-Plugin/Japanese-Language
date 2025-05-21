@@ -1,0 +1,20 @@
+{
+  "NoPerms": "You don't have permission to use this command.",
+  "CMDBPResetArgs": "This command needs one argument in the format /bpreset playerName or playerID",
+  "CMDUnlockAllArgs": "This command needs one argument in the format /bplunlockall playerName or playerID",
+  "CMDRemoveArgs": "This command needs at least two arguments in the format /bpremove playerName or playerID item.shortname",
+  "PlayerNotFound": "Cannot find player by the {0} identifier",
+  "ResetPlayersBps": "{0} BPs were reset",
+  "ResetAllBps": "All BPs were reset",
+  "UnlockAllPlayersBps": "All BPs were unlocked for {0}",
+  "UnlockPlayersBps": "{0} was unlocked for {1}",
+  "RemovePlayersBps": "{0} was removed for {1}",
+  "CannotFindBPConfig": "Cannot find a blueprint for {0} in the {1} config. Use the item shortname or ID",
+  "CannotFindBP": "Cannot find a blueprint for {0}. Use the item shortname or ID",
+  "BlueprintLocked": "The {0} blueprint is locked for {1}",
+  "CMDUnlockAll": "bpunlockall",
+  "CMDUnlock": "bpunlock",
+  "CMDBPReset": "bpreset",
+  "CMDBPRemove": "bpremove",
+  "CMDWipeAll": "bpwipeall"
+}

@@ -1,0 +1,15 @@
+{
+  "initialized": "Plugin not enabled",
+  "perm": "You are not authorized to use this command",
+  "syntax": "Usage: /blacklist [additem|deleteitem] \"ITEMNAME\"",
+  "none": "There are no blacklisted items",
+  "blocked": "Blacklisted items: {0}",
+  "notvalid": "Not a valid item: {0}",
+  "blockedpass": "The item '{0}' is now blacklisted",
+  "blockedtrue": "The item '{0}' is already blacklisted}",
+  "unblacklisted": "The item '{0}' has been unblacklisted",
+  "blockedfalse": "The item '{0}' is not blacklisted",
+  "lootycmdformat": "Usage: /looty \"looty-id\"",
+  "lootynotfound": "The requested table id was not found. Please ensure youve got the right code.",
+  "lootyinvalidid": "Invalid looty id format. Please ensure youve got the right code."
+}
