@@ -8,7 +8,7 @@
   "Cmd_Usage_prod": "見ているエンティティのプレハブ名とタイプを表示します",
   "Cmd_Usage_map": "マッピングエントリを作成／削除します",
   "Cmd_Usage_trace": "トレースをオン／オフに切り替えます",
-  "Warning_PveMode": "ConVar server.pve が TRUE です！TruePVE は PVP モード向けに設計されており、PVE モードでは予期しない動作が発生する可能性があります。",
+  "Warning_PveMode": "ConVar server.pve が TRUE です！TruePVE は PVP モード向けに設計されており、PVE モードでは予期せぬ動作が発生する可能性があります。",
   "Warning_NoRuleSet": "\"{0}\" に対するルールセットが見つかりません",
   "Warning_DuplicateRuleSet": "\"{0}\" に対する複数のルールセットが見つかりました",
   "Error_InvalidCommand": "無効なコマンドです",

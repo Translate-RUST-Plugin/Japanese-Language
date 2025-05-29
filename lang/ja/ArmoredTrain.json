@@ -4,7 +4,7 @@
   "PresetNotFound_Exeption": "プリセット {0} が設定ファイルに見つかりません！",
   "EntitySpawn_Exeption": "エンティティのスポーンに失敗しました（{0}）",
   "LocomotiveSpawn_Exeption": "機関車のスポーンに失敗しました（{0}）",
-  "FileNotFound_Exeption": "データファイルが存在しないか破損しています！ ({0}.json)",
+  "FileNotFound_Exeption": "データファイルが存在してないか破損しています！ ({0}.json)",
   "DataFileNotFound_Exeption": "カスタマイズ用データファイルが見つかりません ({0}.json)。プリセットを空にするかファイルをアップロードしてください。",
   "RouteNotFound_Exeption": "ルートの生成に失敗しました！道路長を伸ばすかタイプを変更してください。",
   "NavMesh_Exeption": "ナビゲーショングリッドが見つかりません！",
