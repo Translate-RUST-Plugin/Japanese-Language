@@ -39,6 +39,8 @@ Discord:RUST ADMIN JAPAN
 
 [https://discord.gg/57fY7cnZ7q](https://discord.gg/57fY7cnZ7q)
 
+アップデート情報は下記の X(旧Twitter)にて配信しています
+
 ご不明点がありましたらDiscord↑ または X のDMにてご連絡ください
 
 [@TF2_IKKUNN](https://x.com/TF2_IKKUNN)
