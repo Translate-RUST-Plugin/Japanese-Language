@@ -52,3 +52,9 @@ Discord:RUST ADMIN JAPAN
 [提供] [RUST文字化け確認サイト](https://mojibake.catsgta.com/): ミヤガワ様 ([@MiyagawaYuu](https://x.com/miyagawayuu))
 
 [協力] RUST Admin JAPAN ： Guu様 ([@g_u_u_3](https://x.com/g_u_u_3?s=21))
+
+----------
+
+# DOWNLOAD
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Translate-RUST-Plugin/Japanese-Language&type=Timeline)](https://www.star-history.com/#Translate-RUST-Plugin/Japanese-Language&Timeline)
