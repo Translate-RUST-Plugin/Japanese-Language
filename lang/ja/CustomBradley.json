@@ -1,0 +1,16 @@
+{
+  "TextOnTimedKill": "時間切れです。チャンスを逃しました。",
+  "TextOnSpawn": "このブラッドリーを倒すまで {0} 分あります。",
+  "TeamLocked": "このブラッドリーはチームロックされています。あなたは出現後に参加しました。",
+  "Spawn broadcast": "<color=#63ff64>{0}</color> が {1} を要請しました。",
+  "NotOwner": "このブラッドリーは {0} とそのチームのために呼び出されています。",
+  "CooldownDamage": "{0} 後にブラッドリーへダメージを与えられます。",
+  "CooldownCall": "{0} 後に次のブラッドリーを要請できます。",
+  "CallInLable": "ブラッドリーを要請",
+  "NoPermission": "権限がありません。",
+  "CountdownText": "ブラッドリーは {0} 後に出現します。",
+  "LeaveTimerText": "ブラッドリーが離脱するまで",
+  "LootTimerText": "戦利品が消えるまで",
+  "LootTimeStarted": "自分のブラッドリーを略奪するまで {0} 分あります。",
+  "LockOnMessage": "ブラッドリーがあなたにロケットをロックオンしています。"
+}

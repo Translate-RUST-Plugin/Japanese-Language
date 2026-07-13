@@ -1,6 +1,6 @@
 {
   "Protected MSG": "[#008080ff]ServerArmour[/#] により保護されたサーバーです",
-  "User Dirty MSG": "[#008080ff]Server Armour レポート:\n {steamid}:{username}[/#] の状態: {status}。\n [#ff0000ff]サーバーバン:[/#] {serverBanCount}\n [#ff0000ff]ゲームバン:[/#] {NumberOfGameBans}\n [#ff0000ff]VACバン:[/#] {NumberOfVACBans}\n [#ff0000ff]経済制裁:[/#] {EconomyBan}\n [#ff0000ff]ファミリーシェア:[/#] {FamShare}",
+  "User Dirty MSG": "User Dirty MSG。",
   "User Dirty DISCORD MSG": "**サーバーバン:** {serverBanCount}\n **ゲームバン:** {NumberOfGameBans}\n **VACバン:** {NumberOfVACBans}\n **経済制裁:** {EconomyBan}\n **ファミリーシェア:** {FamShare}",
   "Command sa.cp Error": "形式が違います。例: /sa.cp ユーザー名またはSteamID trueまたはfalse",
   "Arkan No Recoil Violation": "[#ff0000]{player}[/#] による Arkan 反動無し 違反。\n[#ff0000]違反番号:[/#] #{violationNr}, [#ff0000]武器:[/#] {weapon}, [#ff0000]弾薬:[/#] {ammo}, [#ff0000]ショット数:[/#] {shots}\n 管理者がすぐに調査します。ハンドカムの準備をお願いします。\n 誤検出の可能性もありますが、すべての違反は調査対象です。",

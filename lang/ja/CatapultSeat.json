@@ -1,0 +1,10 @@
+{
+  "ConfigNotFound_Exeption": "設定が見つかりません！ ({0})",
+  "GiveToPlayer_Exeption": "プレイヤーにカタパルトを渡すには、コマンド givecatapult userid amount を使用してください。",
+  "PlayerNotFound_Exeption": "そのプレイヤーは見つかりませんでした！",
+  "Give_Log": "プレイヤー {0} にカタパルトを渡しました！",
+  "GotItem": "カタパルトを受け取りました！",
+  "NoPermissionForUse": "カタパルトを使用する権限がありません！",
+  "Instruction": "射出するには Shift を押し続けてください。",
+  "Countdown": "{0} 秒後に射出します。"
+}

@@ -18,10 +18,10 @@
   "SetSkin2Args": "このコマンドは 2 つの引数が必要です: /setcraftskin item.shortname スキンID",
   "SkinSet": "{0} のデフォルトスキンを {1} に設定しました。",
   "CraftTimeCheck": "このアイテムのクラフト時間は {0} 秒です。",
-  "CommandCraftingRate": "craftrate",
-  "CommandCraftTime": "crafttime",
-  "CommandBlockItem": "blockitem",
-  "CommandUnblockItem": "unblockitem",
-  "CommandWorkbenchLVL": "benchlvl",
-  "CommandSetDefaultSkin": "setcraftskin"
+  "CommandCraftingRate": "コマンド Crafting 速度。",
+  "CommandCraftTime": "コマンド Craft Time。",
+  "CommandBlockItem": "コマンド Block Item。",
+  "CommandUnblockItem": "コマンド Unblock Item。",
+  "CommandWorkbenchLVL": "コマンド Workbench LVL。",
+  "CommandSetDefaultSkin": "コマンド 設定 デフォルト スキン。"
 }

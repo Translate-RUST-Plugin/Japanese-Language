@@ -10,7 +10,7 @@
   "ImgReload": "画像を初期化して再読み込みしました！",
   "ImgRefresh": "画像を更新しました！",
   "NewGiftInfo": "{0} 分プレイで新しいギフト情報！",
-  "GiftDetails": "{1} - {0}",
+  "GiftDetails": "Gift Details。 {1} {0}",
   "TimeAlreadyExists": "選択した {0} 分はすでにギフトとして存在します。続けると以前の内容は削除されます。",
   "GiftCreationCanceled": "ギフト作成をキャンセルしました。",
   "ToggleAdmin": "管理モード切替",

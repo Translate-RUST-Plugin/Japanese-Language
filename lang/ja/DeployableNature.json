@@ -1,5 +1,5 @@
 {
-  "Prefix": "<color=#DFF008>[DN]</color>",
+  "Prefix": "Prefix。",
   "WarnMarketCooldown": "{0} 次のアイテムを購入する前に少しお待ちください。",
   "NoPickup": "{0} このエンティティは装飾用のため回収できません。",
   "NoGather": "{0} このエンティティは装飾用のため採取できません。",
@@ -10,7 +10,7 @@
   "GiveItem": "{0} あなたは {2} を {1} 個受け取りました。",
   "NotifyConsoleInvalid": "{0} 無効なスキンです: {1}。有効なキー一覧はコンソールに出力されています。",
   "NotifyOfConsole": "{0} 使い方: /giveprefab <スキンID> <任意: 数量>\n有効なキー一覧はコンソールに出力されています。",
-  "NotifyInConsole": "{0}",
+  "NotifyInConsole": "Notify In Console。 {0}",
   "NEC": "{0} {3} を {2} 個購入するには {1} が不足しています。",
   "broadcastmsg": "{0} <color=#51ff00>/{1}</color> を入力するとネイチャーマーケットを開いて設置型自然アイテムを購入できます。",
   "itemDisabled": "{0} このアイテムは現在使用できません。",

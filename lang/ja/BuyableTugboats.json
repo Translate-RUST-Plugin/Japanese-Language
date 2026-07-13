@@ -6,7 +6,7 @@
   "RepossessNotification": "タグボートを引き渡すまであと {0} 秒です。運転席に座って引き取ってください。",
   "ReposessedNotification": "タグボートを引き取りに来なかったため、没収されました。",
   "UITugboatOption": "タグボートはいかが？",
-  "UIOptionNumber_Revised": "0",
+  "UIOptionNumber_Revised": "UIOption Number Revised。",
   "UIBoatVendorTitle": "ボート販売員",
   "UIVendorText": "この船を作るには、いくつかのアイテムが必要です…",
   "BoatSpawnedNotification": "あなたのボートが建造され、近くで待機しています。",
