@@ -1,7 +1,7 @@
 {
-  "SyntaxPlayer3": "<color=red>\•¶‚ª–³Œø‚Å‚·</color>Bg—p•û–@F\n\n<color=green>/tereload <batteries|solar|turbine|fuelgen|testgen|all></color>",
-  "SyntaxConsole3": "\•¶‚ª–³Œø‚Å‚·Bg—p•û–@F\n\n/tereload <batteries|solar|turbine|fuelgen|testgen|all>",
-  "Placed": "<color=green>{0}</color> ‚ğİ’u‚µ‚Ü‚µ‚½i“d—Í‹­‰»F<color=green>{1}</color>jB",
-  "ReloadedPlayer": "<color=green>{0}</color> ‚Ìİ’è‚ğÄ“Ç‚İ‚İ‚µ‚Ü‚µ‚½B",
-  "ReloadedConsole": "{0} ‚Ìİ’è‚ğÄ“Ç‚İ‚İ‚µ‚Ü‚µ‚½B"
+  "SyntaxPlayer3": "<color=red>æ§‹æ–‡ãŒç„¡åŠ¹ã§ã™</color>ã€‚ä½¿ç”¨æ–¹æ³•ï¼š\n\n<color=green>/tereload <batteries|solar|turbine|fuelgen|testgen|all></color>",
+  "SyntaxConsole3": "æ§‹æ–‡ãŒç„¡åŠ¹ã§ã™ã€‚ä½¿ç”¨æ–¹æ³•ï¼š\n\n/tereload <batteries|solar|turbine|fuelgen|testgen|all>",
+  "Placed": "<color=green>{0}</color> ã‚’è¨­ç½®ã—ã¾ã—ãŸï¼ˆé›»åŠ›å¼·åŒ–ï¼š<color=green>{1}</color>ï¼‰ã€‚",
+  "ReloadedPlayer": "<color=green>{0}</color> ã®è¨­å®šã‚’å†èª­ã¿è¾¼ã¿ã—ã¾ã—ãŸã€‚",
+  "ReloadedConsole": "{0} ã®è¨­å®šã‚’å†èª­ã¿è¾¼ã¿ã—ã¾ã—ãŸã€‚"
 }

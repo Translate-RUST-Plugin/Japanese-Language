@@ -24,7 +24,7 @@
   "GameTip.Fare.Free": "この移動は無料です。<color=#FFC02E>/payfare</color> と入力して続行してください",
   "GameTip.Calculating": "ルートを計算中です。しばらくお待ちください…",
   "FareCost.Scrap": "スクラップ",
-  "FareCost.ServerRewards": "RP",
+  "FareCost.ServerRewards": "Server Rewards。",
   "FareCost.Economics": "コイン",
   "Error.PathFail.Generic": "経路の計算に失敗しました",
   "Error.PathFail.Unreachable": "経路の計算に失敗しました：目的地に到達できません",

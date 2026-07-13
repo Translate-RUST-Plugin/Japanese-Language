@@ -1,5 +1,5 @@
 {
-  "Chat": "[Discord Extension] {0}",
+  "Chat": "Chat。 {0}",
   "Version": "サーバーは Discord Extension v{0} を実行中です",
   "Websocket.Reconnect": "すべてのWebSocketに再接続を要求しました",
   "Websocket.Reset": "すべてのWebSocketがリセットされました",
@@ -18,7 +18,7 @@
   "Search.HighPerformance.Invalid": "'{0}' は有効なブール値ではありません。有効な値は false, true, 0, 1 です",
   "Enabled": "有効",
   "Disabled": "無効",
-  "TimeSpan.Infinity": "∞",
+  "TimeSpan.Infinity": "Infinity。",
   "TimeSpan.Day": "日",
   "TimeSpan.Days": "日",
   "TimeSpan.Hour": "時間",

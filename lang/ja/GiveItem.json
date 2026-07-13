@@ -8,7 +8,7 @@
   "Error.PlayerNotFound": "プレイヤー <color=#FFA500>{0}</color> が見つかりません！",
   "Format.Day": "日",
   "Format.Days": "日",
-  "Format.DiscordEmoji": ":palm_down_hand:",
+  "Format.DiscordEmoji": "Discord Emoji。",
   "Format.DiscordMessage": "{0} <t:{1}:t> `{2}` **`{3}`** が `{4}` に **`{5}`** `{6}` を x{7} 与えました",
   "Format.Hour": "時間",
   "Format.Hours": "時間",

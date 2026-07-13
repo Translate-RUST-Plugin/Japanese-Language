@@ -1,8 +1,8 @@
 {
-  "Chat prefix": "<color=#d9770f>Smooth Restarter</color>:",
+  "Chat prefix": "Chat prefix。",
   "No permission": "<color=#f04c32>このコマンドを使用する権限がありません</color>",
   "Kick reason": "サーバーが再起動します",
-  "Help message": "/sr <color=#1a97ba>[コマンド]</color> <color=#1aba8f>[引数]</color>\n使用可能なコマンド: <color=#1a97ba>help</color>, <color=#1a97ba>status</color>, <color=#1a97ba>restart</color>, <color=#1a97ba>cancel</color>\nコマンドの使い方を確認するには '/sr <color=#1a97ba>help</color> <color=#1aba8f>[コマンド]</color>' と入力してください",
+  "Help message": "ヘルプ message。",
   "Help message: Help": "/sr <color=#1a97ba>help</color> <color=#1aba8f>[コマンド]</color> - ヘルプメッセージまたはコマンドの使用方法を表示します",
   "Help message: Status": "/sr <color=#1a97ba>status</color> - 現在の再起動ステータスを表示します",
   "Help message: Restart": "/sr <color=#1a97ba>restart</color> <color=#1aba8f>[時間]</color> - 新しい再起動を開始します\n時間は以下のいずれかの形式で指定してください：\n<color=#77ba20>123</color> - 秒数指定の遅延再起動\n<color=#77ba20>123</color><h|m|s> - 時/分/秒 指定の遅延再起動\n<color=#77ba20>1</color>h <color=#77ba20>2</color>m <color=#77ba20>3</color>s - 時+分+秒 の組み合わせ（すべて任意）\n<color=#77ba20>1</color>:<color=#77ba20>23</color> - 24時間形式での時刻指定再起動",
@@ -22,6 +22,6 @@
   "Status: Restarting (global.restart)": "サーバーはネイティブ再起動中です",
   "Status: Restart planned": "サーバー再起動予定時刻：<color=#a4db0b>{0:hh\\:mm}</color>（残り <color=#a4db0b>{1:sfmt::<hr?+時間 ><min?+分 ><sec?+秒>}</color>）",
   "Status: No planned restarts": "現在サーバーは再起動予定がありません",
-  "UI title": "SmoothRestarter",
+  "UI title": "UI title。",
   "UI countdown format": "残り時間: {0:sfmt::<min#2!>:<sec#2>}"
 }

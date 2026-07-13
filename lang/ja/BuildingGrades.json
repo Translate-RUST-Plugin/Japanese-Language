@@ -7,7 +7,7 @@
   "CombatBlocked": "<color=#FF1919>戦闘中は実行できません。</color>",
   "OnCooldown": "このコマンドを使用するには <color=#FF1919>{0}</color> 秒待つ必要があります。",
   "BuildingBlocked": "建築権限がない場合、このコマンドは使用できません。",
-  "MissingItemsFormat": "* <color=#FF1919>{0}</color> x{1}",
+  "MissingItemsFormat": "Missing Items Format。 {0} {1}",
   "StartUpgrade": "アップグレードを開始します。しばらくお待ちください。",
   "StartDowngrade": "ダウングレードを開始します。しばらくお待ちください。",
   "AlreadyProcess": "既に処理が実行中です。しばらくお待ちください。",

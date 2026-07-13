@@ -1,5 +1,5 @@
 {
-  "VanishCommand": "vanish",
+  "VanishCommand": "Vanish コマンド。",
   "Vanished": "Vanish：<color=orange>有効</color>",
   "Reappear": "Vanish：<color=orange>無効</color>",
   "NoPerms": "この操作を行う権限がありません",

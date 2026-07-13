@@ -18,5 +18,5 @@
   "SupplyDropPlayer": "{0} の ",
   "Location": " 場所: {0}",
   "Destination": " 行き先: {0}",
-  "DiscordMessage_": "{0}"
+  "DiscordMessage_": "Discord メッセージ。 {0}"
 }

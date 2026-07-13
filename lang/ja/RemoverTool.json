@@ -39,7 +39,7 @@
   "Free": "無料",
   "TimeLeft": "残り時間：{0}秒\n削除済み：{1}",
   "RemoverToolType": "リムーバーツール（{0}）",
-  "Unlimit": "∞",
+  "Unlimit": "Unlimit。",
   "SyntaxError": "構文エラーです。ヘルプを確認するには '<color=#ce422b>/{0} <help | h></color>' を入力してください。",
   "Syntax": "<color=#ce422b>/{0} [時間（秒）]</color> - リムーバーツール（{1}）を有効化",
   "Syntax1": "<color=#ce422b>/{0} <admin | a> [時間（秒）]</color> - リムーバーツール（{1}）を管理者モードで有効化",

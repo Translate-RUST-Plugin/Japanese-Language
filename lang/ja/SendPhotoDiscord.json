@@ -1,5 +1,5 @@
 {
-  "lang_1": "<size=10><color=#1bf900>√</color></size>",
+  "lang_1": "lang。",
   "lang_2": "<size=10><color=red>半角英数字（0-9 A-Z a-z）とハイフンが必要です！</color></size>",
   "lang_3": "<size=10><color=red>{LimitTextMinimum}文字以上入力する必要があります！</color></size>",
   "lang_4": "<size=10><color=red>コメント欄が空です！</color></size>",
