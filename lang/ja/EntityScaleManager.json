@@ -1,10 +1,10 @@
 {
-  "Error.NoPermission": "You don't have permission to do that.",
-  "Error.NoEntityFound": "Error: No entity found.",
-  "Error.NotTracked": "Error: That entity is not tracked by Entity Scale Manager.",
-  "Error.ScaleBlocked": "Error: Another plugin prevented you from scaling that entity to size {0}.",
-  "GetScale.Success": "Entity scale is: {0}",
-  "Scale.Success": "Entity was scaled to: {0}",
-  "Error.EntityNotSafeToScale": "Error: That entity cannot be safely scaled.",
-  "Error.SyntaxV3": "Syntax: {0} <x> <y> <z>"
+  "Error.NoPermission": "それを行う権限がありません。",
+  "Error.NoEntityFound": "エラー：エンティティが見つかりません。",
+  "Error.NotTracked": "エラー：そのエンティティは Entity Scale Manager によって追跡されていません。",
+  "Error.ScaleBlocked": "エラー：別のプラグインにより、そのエンティティをサイズ {0} にスケール変更できませんでした。",
+  "GetScale.Success": "エンティティのスケール：{0}",
+  "Scale.Success": "エンティティを {0} にスケール変更しました。",
+  "Error.EntityNotSafeToScale": "エラー：そのエンティティは安全にスケール変更できません。",
+  "Error.SyntaxV3": "構文：{0} <x> <y> <z>"
 }

@@ -1,14 +1,14 @@
 {
-  "MaxLimitDefault": "You have reached the Default maximum cupboard limit of {0}",
-  "MaxLimitVip": "You have reached the Vip maximum cupboard limit of {0}",
-  "MaxLimit": "You have reached the maximum cupboard limit of {0}",
-  "Remaining": "Amount of TC's remaining = {0}",
-  "NoPermission": "You don't have the permission.",
+  "MaxLimitDefault": "デフォルト上限に達しました：{0} TC",
+  "MaxLimitVip": "VIP上限に達しました：{0} TC",
+  "MaxLimit": "TCの最大上限 {0} に達しました",
+  "Remaining": "残り設置可能なTC数：{0}",
+  "NoPermission": "この操作を行う権限がありません。",
   "cInspect": "The user {0} have {1} TCs.",
   "cInspectOwn": "You have {0} TC and {1} remaining.",
-  "cInspectNotFound": "Error: User not found",
+  "cInspectNotFound": "エラー：ユーザーが見つかりません",
   "TeamOvercount": "You cannot invite this player right now, he have {0} TC too many.",
   "TeamOvercountTarget": "You cannot be invited by this player right now, you have {0} TC too many.",
-  "cInspectUsage": "Usage: tc <partialNameOrId> ...",
+  "cInspectUsage": "Usage： tc <partialNameOrId> ...",
   "Error": "An unexpected error occured."
 }

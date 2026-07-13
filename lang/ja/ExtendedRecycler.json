@@ -1,15 +1,15 @@
 {
-  "Name": "Recycler",
-  "Pickup": "You picked up recycler!",
-  "Receive": "You received recycler!",
-  "Disabled": "Pickup disabled!",
-  "Build": "You must have ability to build to do that!",
-  "Damaged": "Recycler was recently damaged, you can pick it up in next 30s!",
-  "NoCraft": "Craft disabled!",
-  "Owner": "Only owner can pickup recycler!",
-  "Craft": "For craft you need more resources:\n{0}",
-  "Permission": "You need permission to do that!",
-  "Claimed": "You claimed a recycler! your current balance is {0}.",
-  "LimitExceeded": "You reached your crafting limit!",
-  "Balance": "Your current balance is {0}."
+  "Name": "リサイクラー",
+  "Pickup": "リサイクラーを拾いました！",
+  "Receive": "リサイクラーを受け取りました！",
+  "Disabled": "拾得は無効です！",
+  "Build": "それを行うには建築権限が必要です！",
+  "Damaged": "リサイクラーは最近ダメージを受けました。あと30秒で拾えます！",
+  "NoCraft": "クラフトは無効です！",
+  "Owner": "所有者のみがリサイクラーを拾えます！",
+  "Craft": "クラフトにはさらに資源が必要です：\n{0}",
+  "Permission": "それを行う権限が必要です！",
+  "Claimed": "リサイクラーを取得しました！現在の残高は {0} です。",
+  "LimitExceeded": "クラフト上限に達しました！",
+  "Balance": "現在の残高は {0} です。"
 }

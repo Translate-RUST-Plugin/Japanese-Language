@@ -1,4 +1,4 @@
 {
-  "ChatBroadcast": "[Night Zombies] Spawned {0} zombies",
-  "ChatBroadcastSeparate": "[Night Zombies] Spawned {0} murderers | Spawned {1} scarecrows"
+  "ChatBroadcast": "[ナイトゾンビ] ゾンビを {0} 体スポーンしました",
+  "ChatBroadcastSeparate": "[ナイトゾンビ] 殺人鬼を {0} 体、案山子を {1} 体スポーンしました"
 }

@@ -1,10 +1,10 @@
 {
-  "UI.Header": "Craft a chassis",
-  "UI.CostLabel.Free": "Free",
-  "UI.CostLabel.NoPermission": "No Permission",
+  "UI.Header": "シャーシをクラフト",
+  "UI.CostLabel.Free": "無料",
+  "UI.CostLabel.NoPermission": "権限なし",
   "UI.CostLabel.Economics": "{0:C}",
-  "UI.CostLabel.ServerRewards": "{0} reward points",
-  "UI.ButtonText.Sockets.2": "2 sockets",
-  "UI.ButtonText.Sockets.3": "3 sockets",
-  "UI.ButtonText.Sockets.4": "4 sockets"
+  "UI.CostLabel.ServerRewards": "{0} 報酬ポイント",
+  "UI.ButtonText.Sockets.2": "2ソケット",
+  "UI.ButtonText.Sockets.3": "3ソケット",
+  "UI.ButtonText.Sockets.4": "4ソケット"
 }

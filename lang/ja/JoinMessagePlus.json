@@ -1,5 +1,5 @@
 {
-  "NoCommandAccess": "You don't have access to this command.",
-  "ToggleOn": "You have turned your Join/Leave Messages [#50D703]ON![/#].",
-  "ToggleOff": "You have turned your Join/Leave Messages [#D60000]OFF![/#]."
+  "NoCommandAccess": "このコマンドを使用する権限がありません。",
+  "ToggleOn": "参加/退出メッセージを [#50D703]ON[/#] に設定しました。",
+  "ToggleOff": "参加/退出メッセージを [#D60000]OFF[/#] に設定しました。"
 }

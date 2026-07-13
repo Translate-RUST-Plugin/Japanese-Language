@@ -1,7 +1,7 @@
 {
-  "Chat": "<color=#bebebe>[<color=#de8732>Magic Panel</color>] {0}</color>",
-  "On": "on",
-  "Off": "off",
-  "SettingsChanged": "All your panels are now {0}",
-  "Help": "Controls the visibility of the magic panels:\n<color=#de8732>/mp on</color> shows all the magic panels\n<color=#de8732>/mp off</color> hides all the magic panels"
+  "Chat": "<color=#bebebe>[<color=#de8732>マジックパネル</color>] {0}</color>",
+  "On": "オン",
+  "Off": "オフ",
+  "SettingsChanged": "すべてのパネルが {0} になりました",
+  "Help": "マジックパネルの表示を切り替えます:\n<color=#de8732>/mp on</color> 全パネル表示\n<color=#de8732>/mp off</color> 全パネル非表示"
 }

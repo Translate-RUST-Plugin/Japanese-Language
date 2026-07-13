@@ -1,14 +1,14 @@
 {
-  "NoPermission": "You don't have permission to do that.",
-  "NoMonumentsFound": "No monuments found",
-  "AtMonument": "At monument: {0}\nRelative position: {1}",
-  "ClosestMonument": "Closest monument: {0}\nDistance: {1:f2}m",
-  "Closest.Config.Success": "Added monument <color=#9f6>{0}</color> to the plugin config.",
-  "Closest.Config.AlreadyPresent": "Monument <color=#9f6>{0}</color> is already in the plugin config.",
-  "List.Header": "Listing monuments:",
-  "Help.Header": "Monument Finder commands:",
-  "Help.List": "<color=#9f6>{0} list <filter></color> - List monuments matching filter",
-  "Help.Show": "<color=#9f6>{0} show <filter></color> - Show monuments matching filter",
-  "Help.Closest": "<color=#9f6>{0} closest</color> - Show info about the closest monument",
-  "Help.Closest.Config": "<color=#9f6>{0} closest config</color> - Adds the closest monument to the config"
+  "NoPermission": "この操作をする権限がありません。",
+  "NoMonumentsFound": "モニュメントが見つかりません",
+  "AtMonument": "現在のモニュメント: {0}\n相対位置: {1}",
+  "ClosestMonument": "最も近いモニュメント: {0}\n距離: {1:f2}m",
+  "Closest.Config.Success": "<color=#9f6>{0}</color> を設定ファイルに追加しました。",
+  "Closest.Config.AlreadyPresent": "モニュメント <color=#9f6>{0}</color> はすでに設定に存在します。",
+  "List.Header": "モニュメント一覧:",
+  "Help.Header": "モニュメント検索コマンド:",
+  "Help.List": "<color=#9f6>{0} list <フィルター></color> - 一致するモニュメントを一覧表示",
+  "Help.Show": "<color=#9f6>{0} show <フィルター></color> - 一致するモニュメントを表示",
+  "Help.Closest": "<color=#9f6>{0} closest</color> - 最も近いモニュメントを表示",
+  "Help.Closest.Config": "<color=#9f6>{0} closest config</color> - 最も近いモニュメントを設定に追加"
 }
