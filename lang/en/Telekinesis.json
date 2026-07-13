@@ -20,5 +20,6 @@
   "Mode.OffsetY": "Move up/down",
   "Mode.RotateX": "Rotate around X axis (pitch)",
   "Mode.RotateY": "Rotate around Y axis (yaw)",
-  "Mode.RotateZ": "Rotate around Z axis (roll)"
+  "Mode.RotateZ": "Rotate around Z axis (roll)",
+  "Error.UnsupportedEntity": "Telekinesis does not support moving that type of entity: {0}."
 }

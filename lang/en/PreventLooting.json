@@ -26,5 +26,6 @@
   "EntPrevent": "This entity is protected!",
   "EntNoPrevent": "This entity is not protected!",
   "OnTryOnOff": "You can not turn on or off this entity because it is not yours!",
-  "OnTryAuthCB": "You can not authorize in cupboard because it is not yours!"
+  "OnTryAuthCB": "You can not authorize in cupboard because it is not yours!",
+  "InvalidSearch": "Name is too short or invalid SteamID... Please try again."
 }

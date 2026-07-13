@@ -1,0 +1,10 @@
+{
+  "ConfigNotFound_Exeption": "Configuration not found! ({0})",
+  "GiveToPlayer_Exeption": "To give a catapult to a player, use the command: givecatapult userid amount",
+  "PlayerNotFound_Exeption": "That player was not found!",
+  "Give_Log": "The catapult has been given to player {0}!",
+  "GotItem": "You received a catapult!",
+  "NoPermissionForUse": "You do not have permission to use the catapult!",
+  "Instruction": "Hold Shift to eject",
+  "Countdown": "Ejecting in {0} s."
+}

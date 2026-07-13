@@ -18,5 +18,6 @@
   "SupplyDropPlayer": "{0}'s ",
   "Location": " at {0}",
   "Destination": " and headed to {0}",
-  "DiscordMessage_": "{0}"
+  "DiscordMessage_": "{0}",
+  "DeepSeaOpen": "The Deep Sea is now open"
 }

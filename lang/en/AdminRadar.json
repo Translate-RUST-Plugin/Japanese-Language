@@ -98,5 +98,7 @@
   "snake.entity": "snake",
   "crocodile": "crocodile",
   "panther": "panther",
-  "tiger": "tiger"
+  "tiger": "tiger",
+  "Drone": "Drone",
+  "TEC": "C4"
 }

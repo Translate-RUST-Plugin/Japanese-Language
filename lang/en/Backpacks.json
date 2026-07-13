@@ -30,5 +30,6 @@
   "UI - Gather Off": "Gather: Off",
   "UI - Retrieve On": "Retrieve: On ↑",
   "UI - Retrieve Off": "Retrieve: Off",
-  "View Backpack Protected": "That player's backpack is protected and cannot be accessed."
+  "View Backpack Protected": "That player's backpack is protected and cannot be accessed.",
+  "No Permission - Generic": "You don't have permission to do that."
 }

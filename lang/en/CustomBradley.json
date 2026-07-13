@@ -1,0 +1,16 @@
+{
+  "TextOnTimedKill": "Time's up. You've missed your chance.",
+  "TextOnSpawn": "You have {0} minutes to kill this Bradley",
+  "TeamLocked": "This Bradley is teamlocked and you've joined after its spawn.",
+  "Spawn broadcast": "<color=#63ff64>{0}</color> calls {1} in.",
+  "NotOwner": "This bradley is called for {0} and his/her team.",
+  "CooldownDamage": "You will be able to damage bradley in {0}",
+  "CooldownCall": "You will be able to call next bradley in {0}",
+  "CallInLable": "Call bradley",
+  "NoPermission": "No Permission",
+  "CountdownText": "Bradley will spawn in {0}",
+  "LeaveTimerText": "Bradley will leave in",
+  "LootTimerText": "Loot will dismiss in",
+  "LootTimeStarted": "You have {0} minutes to loot your bradley.",
+  "LockOnMessage": "Bradley is locking rockets on you."
+}

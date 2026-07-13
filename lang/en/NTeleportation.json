@@ -268,5 +268,19 @@
   "Water Treatment Plant": "Water Treatment Plant",
   "Water Well": "Water Well",
   "Wild Swamp": "Wild Swamp",
-  "BlockedAuthMarkerTeleport": "You have been TC blocked from using the marker teleport!"
+  "BlockedAuthMarkerTeleport": "You have been TC blocked from using the marker teleport!",
+  "HomeTPCooldownBypassSafeZone": "Your teleport cooldown was bypassed within this safe zone.",
+  "HomeTPNoCupboard": "You can't set your home without a tool cupboard!",
+  "TooCloseToMonTp": "You can't teleport so close to a monument!",
+  "BlockedMarkerTeleportZMNOTP": "You have been blocked from using the marker teleport (ZoneManager NoTP flag)!",
+  "ErrorRedacted": "The reason is hidden to protect the target's location",
+  "DeepSeaClosedTo": "You are not allowed to teleport to the deep sea while it is closed!",
+  "HomePlayerBoatNotAllowed": "You are not allowed to sethome on player boats.",
+  "HomeSteeringWheelRequired": "You must deploy a steering wheel first.",
+  "TPPlayerBoat": "You can't teleport while on a player boat!",
+  "TPDeepSeaFrom": "You can't teleport from the deep sea!",
+  "TPDeepSeaTo": "You can't teleport to the deep sea!",
+  "TooCloseToMonTpb": "You can't teleport back to the {0}!",
+  "DM_TownTPNotOpened": "<color=yellow>{0}</color> is currently not open!",
+  "DeepSea": "DeepSea"
 }

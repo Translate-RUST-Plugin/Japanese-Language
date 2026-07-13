@@ -38,6 +38,10 @@
   "Format_HeaderSize": "14",
   "Format_ErrorColor": "#FF0000",
   "Format_ErrorSize": "12",
-  "Error_TimeLeft": "You must wait another {0} hours to attack this player.",
-  "Error_CannotAccessEntity": "You are not allowed to access this"
+  "Error_CannotAccessEntity": "You are not allowed to access this",
+  "Cmd_Usage_mapzone": "Adds a mapping for the current zone manager zone",
+  "Cmd_Usage_unmapzone": "Removes a mapping for the current zone manager zone",
+  "Error_OfflineTimeLeft": "You must wait another {0} to attack this player.",
+  "Error_MasterKeyDisabled": "Apartment master keys are disabled.",
+  "Error_BribeDisabled": "Bribing the security guard is disabled."
 }
