@@ -1,6 +1,6 @@
 {
-  "Start": "{0} <color=#55aaff>{1}</color> が <color=#738d43>ゾーン {2}</color> に出現！",
-  "Finish": "{0} <color=#55aaff>{1}</color> が <color=#55aaff>{2}</color> をゾーン <color=#55aaff>{3}</color> で撃破！",
-  "NoDamage": "{0} この位置からはボスに<color=#ce3f27>ダメージを与えられません！</color>",
-  "OnlyMeleeWeapon": "{0} このボスには<color=#55aaff>近接武器のみ</color>で攻撃可能です！"
+  "Start": "{0} <color=#55aaff>{1}</color> <color=#738d43>arrived</color> to zone <color=#55aaff>{2}</color>!",
+  "Finish": "{0} <color=#55aaff>{1}</color> killed <color=#55aaff>{2}</color> to zone <color=#55aaff>{3}</color>",
+  "NoDamage": "{0} You <color=#ce3f27>cannot</color> damage an boss from your position!",
+  "OnlyMeleeWeapon": "{0} You can only deal damage to this boss <color=#55aaff>with melee weapons</color>!"
 }

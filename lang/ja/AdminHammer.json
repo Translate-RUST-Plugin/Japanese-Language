@@ -1,13 +1,13 @@
 {
-  "NoAuthorizedPlayers": "許可されたプレイヤーはいません。",
-  "AuthorizedPlayers": "{0}（所有者: {1}）の許可プレイヤー：",
-  "NoEntityFound": "エンティティが見つかりません。{0} を持って右クリックしてください。",
-  "NoOwner": "このエンティティの所有者が見つかりません。",
-  "ChatEntityOwnedBy": "この {0} の所有者は {1} です",
-  "DoorCode": "ドアコード：<color=yellow>{0}</color>",
-  "ConsoleEntityOwnedBy": "この {0} の所有者：www.steamcommunity.com/profiles/{1}",
-  "ToolActivated": "AdminHammer を有効化しました。",
-  "ToolDeactivated": "AdminHammer を無効化しました。",
-  "AdminUsedTool": "{0} [{1}] が {2}（所有者: {3} [{4}]）に AdminHammer を使用（位置: {5}）",
-  "PerformanceMode": "パフォーマンスモード中は <color=yellow>/{0}</color> コマンドを使用してください。"
+  "NoAuthorizedPlayers": "No authorized players.",
+  "AuthorizedPlayers": "Authorized players in the {0} owned by {1}:",
+  "NoEntityFound": "No entity found. Look at an entity and right-click while holding a {0}.",
+  "NoOwner": "No owner found for this entity.",
+  "ChatEntityOwnedBy": "This {0} is owned by {1}",
+  "DoorCode": "Door Code: <color=yellow>{0}</color>",
+  "ConsoleEntityOwnedBy": "This {0} is owned by www.steamcommunity.com/profiles/{1}",
+  "ToolActivated": "You have enabled AdminHammer.",
+  "ToolDeactivated": "You have disabled AdminHammer.",
+  "AdminUsedTool": "{0} [{1}] used AdminHammer on a {2} owned by {3} [{4}] located at {5}",
+  "PerformanceMode": "Performance mode is enabled, so you have to use the chat command <color=yellow>/{0}</color> instead of right-clicking"
 }

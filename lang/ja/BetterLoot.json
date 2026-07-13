@@ -1,15 +1,15 @@
 {
-  "initialized": "プラグインが有効化されていません",
-  "perm": "このコマンドを使用する権限がありません",
-  "syntax": "使用方法: /blacklist [additem|deleteitem] \"ITEMNAME\"",
-  "none": "ブラックリストに登録されたアイテムはありません",
-  "blocked": "ブラックリストアイテム: {0}",
-  "notvalid": "無効なアイテムです: {0}",
-  "blockedpass": "アイテム '{0}' をブラックリストに追加しました",
-  "blockedtrue": "アイテム '{0}' はすでにブラックリストに登録されています",
-  "unblacklisted": "アイテム '{0}' をブラックリストから解除しました",
-  "blockedfalse": "アイテム '{0}' はブラックリストに登録されていません",
-  "lootycmdformat": "使用方法: /looty \"looty-id\"",
-  "lootynotfound": "指定されたテーブルIDが見つかりません。コードが正しいことを確認してください。",
-  "lootyinvalidid": "無効な looty ID の形式です。コードが正しいことを確認してください。"
+  "initialized": "Plugin not enabled",
+  "perm": "You are not authorized to use this command",
+  "syntax": "Usage: /blacklist [additem|deleteitem] \"ITEMNAME\"",
+  "none": "There are no blacklisted items",
+  "blocked": "Blacklisted items: {0}",
+  "notvalid": "Not a valid item: {0}",
+  "blockedpass": "The item '{0}' is now blacklisted",
+  "blockedtrue": "The item '{0}' is already blacklisted}",
+  "unblacklisted": "The item '{0}' has been unblacklisted",
+  "blockedfalse": "The item '{0}' is not blacklisted",
+  "lootycmdformat": "Usage: /looty \"looty-id\"",
+  "lootynotfound": "The requested table id was not found. Please ensure youve got the right code.",
+  "lootyinvalidid": "Invalid looty id format. Please ensure youve got the right code."
 }

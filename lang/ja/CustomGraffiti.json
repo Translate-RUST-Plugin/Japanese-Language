@@ -1,5 +1,6 @@
 {
-  "NOSKIN": "エラー：このスキンはコレクションに存在しません！",
-  "NOPERMS": "このグラフィティを使う権限がありません。",
-  "SUCCESS": "グラフィティを設置しました！"
+  "NOSKIN": "Error: This skin is not in the collection!",
+  "NOPERMS": "You do not have permission to use this graffiti!",
+  "SUCCESS": "Graffiti installed!",
+  "FIRST_OPEN": "You can choose a graffiti pattern!"
 }

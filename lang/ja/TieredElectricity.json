@@ -1,7 +1,7 @@
 {
-  "SyntaxPlayer3": "<color=red>構文が無効です</color>。使用方法：\n\n<color=green>/tereload <batteries|solar|turbine|fuelgen|testgen|all></color>",
-  "SyntaxConsole3": "構文が無効です。使用方法：\n\n/tereload <batteries|solar|turbine|fuelgen|testgen|all>",
-  "Placed": "<color=green>{0}</color> を設置しました（電力強化：<color=green>{1}</color>）。",
-  "ReloadedPlayer": "<color=green>{0}</color> の設定を再読み込みしました。",
-  "ReloadedConsole": "{0} の設定を再読み込みしました。"
+  "SyntaxPlayer3": "<color=red>Invalid syntax</color>, use:\n\n<color=green>/tereload <batteries|solar|turbine|fuelgen|testgen|all></color>",
+  "SyntaxConsole3": "Invalid syntax, use:\n\n/tereload <batteries|solar|turbine|fuelgen|testgen|all>",
+  "Placed": "<color=green>{0}</color> placed with <color=green>{1}</color> electrical power enhancements.",
+  "ReloadedPlayer": "Config reloaded for <color=green>{0}</color>.",
+  "ReloadedConsole": "Config reloaded for {0}."
 }

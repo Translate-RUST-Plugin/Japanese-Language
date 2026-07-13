@@ -1,6 +1,10 @@
 {
-  "Prefix": "<color=#BFFFBF>[サイズ管理]</color>",
-  "ScaleChanged": "{0} のサイズを {1} に変更しました",
-  "InvalidSize": "サイズが無効です！1.0 ～ 5.0 の間で指定してください",
-  "NoPermission": "このコマンドを使う権限がありません"
+  "Error.NoPermission": "You don't have permission to do that.",
+  "Error.NoEntityFound": "Error: No entity found.",
+  "Error.NotTracked": "Error: That entity is not tracked by Entity Scale Manager.",
+  "Error.ScaleBlocked": "Error: Another plugin prevented you from scaling that entity to size {0}.",
+  "GetScale.Success": "Entity scale is: {0}",
+  "Scale.Success": "Entity was scaled to: {0}",
+  "Error.EntityNotSafeToScale": "Error: That entity cannot be safely scaled.",
+  "Error.SyntaxV3": "Syntax: {0} <x> <y> <z>"
 }
