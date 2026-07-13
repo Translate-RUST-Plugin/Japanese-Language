@@ -1,15 +1,15 @@
 {
-  "PreStart": "{0} There was a conflict between two gangs <color=#55aaff>Vagos</color> and <color=#55aaff>Ballas</color>. After <color=#55aaff>{1}</color> <color=#55aaff>Vagos</color> want to attack the <color=#55aaff>Ballas</color> base to free their friend from captivity",
-  "Start": "{0} As a result of the chase, <color=#55aaff>Vagos</color> lost control of their car and crashed into a gas tank at <color=#55aaff>Oxum's Gas Station</color> monument in the square <color=#55aaff>{1}</color>. A shootout began between both gangs. <color=#738d43>Help</color> one of the gangs cope with the second and then they <color=#738d43>will thank you</color> for your help",
-  "PreFinish": "{0} The Oxum's Gas Station Event <color=#ce3f27>will end</color> in <color=#55aaff>{1}</color>!",
-  "Finish": "{0} The Oxum's Gas Station Event <color=#ce3f27>has concluded</color>!",
-  "KillAllVagos": "{0} All members of the <color=#55aaff>Vagos</color> gang are <color=#ce3f27>killed</color>. As a thank you, the <color=#55aaff>Ballas</color> gang <color=#738d43>opened their hiding place</color> in the basement of the auto repair shop at the Oxum's Gas Station monument. You <color=#738d43>can take</color> everything you need from there",
-  "KillAllBallas": "{0} All members of the <color=#55aaff>Ballas</color> gang are <color=#ce3f27>killed</color>. As a thank you, the <color=#55aaff>Vagos</color> gang <color=#738d43>shared the password to their hiding place</color> in the toilet at the Oxum's Gas Station monument. You <color=#738d43>can take</color> everything you need from there",
-  "SetOwner": "{0} Player <color=#55aaff>{1}</color> <color=#738d43>has received</color> the owner status for the <color=#55aaff>Gas Station Event</color>",
-  "EventActive": "{0} This event is active now. To finish this event (<color=#55aaff>/gsstop</color>), then (<color=#55aaff>/gsstart</color>) to start the next one!",
-  "EnterPVP": "{0} You <color=#ce3f27>have entered</color> the PVP zone, now other players <color=#ce3f27>can damage</color> you!",
-  "ExitPVP": "{0} You <color=#738d43>have left</color> the PVP zone, now other players <color=#738d43>cannot damage</color> you!",
-  "NTeleportation": "{0} You <color=#ce3f27>cannot</color> teleport into the event zone!",
-  "SendEconomy": "{0} You <color=#738d43>have earned</color> <color=#55aaff>{1}</color> economics for participating in the event",
-  "NoCommand": "{0} You <color=#ce3f27>cannot</color> use this command in the event zone!"
+  "PreStart": "{0} ギャング <color=#55aaff>Vagos</color> と <color=#55aaff>Ballas</color> の間で抗争が発生しました。<color=#55aaff>{1}</color> の後、<color=#55aaff>Vagos</color> は仲間を救出するため <color=#55aaff>Ballas</color> の拠点を襲撃しようとしています。",
+  "Start": "{0} カーチェイスの末、<color=#55aaff>Vagos</color> は車のコントロールを失い、<color=#55aaff>{1}</color> の <color=#55aaff>Oxum's ガソリンスタンド</color> モニュメントでガスタンクに衝突しました。両ギャング間で銃撃戦が始まりました。<color=#738d43>どちらかのギャングを手助け</color>して勝利に導くと、<color=#738d43>感謝の報酬</color>がもらえます！",
+  "PreFinish": "{0} Oxum's ガソリンスタンドイベントは <color=#55aaff>{1}</color> で<color=#ce3f27>終了</color>します！",
+  "Finish": "{0} Oxum's ガソリンスタンドイベントは<color=#ce3f27>終了</color>しました！",
+  "KillAllVagos": "{0} <color=#55aaff>Vagos</color> ギャングの全員を<color=#ce3f27>倒しました</color>。お礼として <color=#55aaff>Ballas</color> ギャングが、Oxum's ガソリンスタンドモニュメントの修理工場の地下にある隠し場所を<color=#738d43>開放</color>しました。中のアイテムは<color=#738d43>ご自由にどうぞ</color>！",
+  "KillAllBallas": "{0} <color=#55aaff>Ballas</color> ギャングの全員を<color=#ce3f27>倒しました</color>。お礼として <color=#55aaff>Vagos</color> ギャングが、Oxum's ガソリンスタンドモニュメントのトイレにある隠し場所のパスワードを<color=#738d43>共有</color>しました。中のアイテムは<color=#738d43>ご自由にどうぞ</color>！",
+  "SetOwner": "{0} プレイヤー <color=#55aaff>{1}</color> が <color=#55aaff>ガソリンスタンドイベント</color>のオーナーになりました！",
+  "EventActive": "{0} このイベントは現在進行中です。終了するには (<color=#55aaff>/gsstop</color>)、次を開始するには (<color=#55aaff>/gsstart</color>) を使用してください！",
+  "EnterPVP": "{0} あなたは <color=#ce3f27>PVPゾーンに入りました</color>。他のプレイヤーに<color=#ce3f27>攻撃される可能性</color>があります！",
+  "ExitPVP": "{0} あなたは <color=#738d43>PVPゾーンから離れました</color>。他のプレイヤーに<color=#738d43>攻撃されることはありません</color>！",
+  "NTeleportation": "{0} イベントゾーンには<color=#ce3f27>テレポートできません</color>！",
+  "SendEconomy": "{0} あなたはイベントへの参加により <color=#55aaff>{1}</color> ポイントを<color=#738d43>獲得しました</color>！",
+  "NoCommand": "{0} イベントゾーン内ではこのコマンドを<color=#ce3f27>使用できません</color>！"
 }

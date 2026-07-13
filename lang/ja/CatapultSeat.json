@@ -1,10 +1,10 @@
 {
-  "ConfigNotFound_Exeption": "Configuration not found! ({0})",
-  "GiveToPlayer_Exeption": "To give a catapult to a player, use the command: givecatapult userid amount",
-  "PlayerNotFound_Exeption": "That player was not found!",
-  "Give_Log": "The catapult has been given to player {0}!",
-  "GotItem": "You received a catapult!",
-  "NoPermissionForUse": "You do not have permission to use the catapult!",
-  "Instruction": "Hold Shift to eject",
-  "Countdown": "Ejecting in {0} s."
+  "ConfigNotFound_Exeption": "設定が見つかりません！ ({0})",
+  "GiveToPlayer_Exeption": "プレイヤーにカタパルトを渡すには、コマンド givecatapult userid amount を使用してください。",
+  "PlayerNotFound_Exeption": "そのプレイヤーは見つかりませんでした！",
+  "Give_Log": "プレイヤー {0} にカタパルトを渡しました！",
+  "GotItem": "カタパルトを受け取りました！",
+  "NoPermissionForUse": "カタパルトを使用する権限がありません！",
+  "Instruction": "射出するには Shift を押し続けてください。",
+  "Countdown": "{0} 秒後に射出します。"
 }

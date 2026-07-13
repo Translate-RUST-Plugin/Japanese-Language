@@ -1,9 +1,9 @@
 {
   "Not Allowed": "You don't have permission to use this command.",
   "Cannot Use": "I'm sorry, you cannot use that right now.",
-  "Help": "Command usage:\nskin show - Show skins.\nskin get - Get Skin ID of the item.\nskin purgecache (shortname) - Purge skins cache by shortname (or empty to purge all)",
-  "Admin Help": "Admin command usage:\nskin remove (Shortname) (Skin ID) [Permission] - Remove a skin.\nskin add (Shortname) (Skin ID) [Permission] - Add a skin.",
-  "Skin Get Format": "{shortname}'s skin: {id}.",
+  "Help": "Command usage：\nskin show - Show skins.\nskin get - Get Skin ID of the item.\nskin purgecache (shortname) - Purge skins cache by shortname (or empty to purge all)",
+  "Admin Help": "管理者コマンドの使い方：\nskin remove (Shortname) (Skin ID) [権限] - スキンを削除します。\nskin add (Shortname) (Skin ID) [権限] - スキンを追加します。",
+  "Skin Get Format": "{shortname}'s skin： {id}.",
   "Skin Get No Item": "Please, hold the needed item.",
   "Incorrect Skin": "You have entered an incorrect skin.",
   "Skin Already Exists": "This skin already exists on this item.",

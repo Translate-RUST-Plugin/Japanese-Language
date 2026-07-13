@@ -1,5 +1,5 @@
 {
-  "NOPERM": "You don't have permission to that command!",
-  "CHANGED": "Admin status now is <color=cyan>{0}</color>",
-  "NOCLIP": "Fly will be deactivated in 1 sec. Don't use it in next 3 seconds or you will be banned!"
+  "NOPERM": "このコマンドを使う権限がありません！",
+  "CHANGED": "管理者ステータスが <color=cyan>{0}</color> に変更されました",
+  "NOCLIP": "Fly will be deactivated in 1 sec. Don't use it in next 3 秒 or you will be banned！"
 }

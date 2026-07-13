@@ -1,8 +1,8 @@
 {
-  "wrongColorUsage": "<size=45>✘</size>\n<size=18>Wrong color format!</size>\nYou need to use RBGA color code with percentage value type. \n\n Example: 0.16 0.34 0.49 1.0",
-  "wrongAnchorUsage": "<size=45>✘</size>\n<size=18>Wrong anchor format!</size>\nAnchor must contain two values, press '?' for more info. \n\n Example: 0.5 0.7",
-  "missingCoreValues": "<size=45>✘</size>\n<size=18>Missing mandatory values!</size>\n Panel Name, UI Type, Panel Type and Anchors cannot be empty.",
-  "tooManyArguments": "<size=45>✘</size>\n<size=18>Too many arguments!</size>\n For multiple words please put text between 'quote marks'.\n\n Keep in mind that Panel Name has to be one word.",
-  "panelNameNotFound": "<size=45>✘</size>\n<size=18>Panel name was not found!</size>\n You can find all panel names in data file or by typing chat command \n\n'/custombuttons_list' ",
-  "changesSaved": "<size=45>✔</size>\n<size=18>Changes have been saved!</size>\n\nClick here to continue..."
+  "wrongColorUsage": "<size=45>✘</size>\n<size=18>カラー形式が正しくありません！</size>\nRBGA形式の割合値で入力してください。\n例: 0.16 0.34 0.49 1.0",
+  "wrongAnchorUsage": "<size=45>✘</size>\n<size=18>アンカー形式が正しくありません！</size>\n2つの値を入力してください。\n例: 0.5 0.7",
+  "missingCoreValues": "<size=45>✘</size>\n<size=18>Missing mandatory values！</size>\n Panel 名前, UI Type, Panel Type and Anchors cannot be empty.",
+  "tooManyArguments": "<size=45>✘</size>\n<size=18>引数が多すぎます！</size>\n複数の単語を使う場合は、テキストを '引用符' で囲んでください。\n\nパネル名は1語にする必要があります。",
+  "panelNameNotFound": "<size=45>✘</size>\n<size=18>Panel name was not found！</size>\n You can find all panel names in data file or by typing chat command \n\n'/custombuttons_list' ",
+  "changesSaved": "<size=45>✔</size>\n<size=18>Changes have been saved！</size>\n\nClick here to continue..."
 }
